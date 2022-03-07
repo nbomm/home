@@ -1,0 +1,2 @@
+KEYMAP:J:PREV_LINK		# Move to the previous link or page
+KEYMAP:K:NEXT_LINK		# Move to the next link or page

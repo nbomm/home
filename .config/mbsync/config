@@ -1,0 +1,26 @@
+
+IMAPStore nabommersbach@payetteschools.org-remote
+Host outlook.office365.com
+Port 993
+User nabommersbach@payetteschools.org
+PassCmd "pass nabommersbach@payetteschools.org"
+AuthMechs LOGIN
+SSLType IMAPS
+CertificateFile /etc/ssl/certs/ca-certificates.crt
+
+MaildirStore nabommersbach@payetteschools.org-local
+Subfolders Verbatim
+Path /home/nabommersbach@psd371.org/.local/share/mail/nabommersbach@payetteschools.org/
+Inbox /home/nabommersbach@psd371.org/.local/share/mail/nabommersbach@payetteschools.org/INBOX
+
+Channel nabommersbach@payetteschools.org
+Expunge Both
+Master :nabommersbach@payetteschools.org-remote:
+Slave :nabommersbach@payetteschools.org-local:
+Patterns * !"[Gmail]/All Mail"
+Create Both
+SyncState *
+MaxMessages 0
+ExpireUnread no
+# End profile
+

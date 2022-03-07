@@ -1,0 +1,24 @@
+# vim: filetype=neomuttrc
+# muttrc file for account nabommersbach@payetteschools.org
+set realname = "nabommersbach"
+set from = "nabommersbach@payetteschools.org"
+set sendmail = "msmtp -a nabommersbach@payetteschools.org"
+alias me nabommersbach <nabommersbach@payetteschools.org>
+set folder = "/home/nabommersbach@psd371.org/.local/share/mail/nabommersbach@payetteschools.org"
+set header_cache = /home/nabommersbach@psd371.org/.cache/mutt-wizard/nabommersbach@payetteschools.org/headers
+set message_cachedir = /home/nabommersbach@psd371.org/.cache/mutt-wizard/nabommersbach@payetteschools.org/bodies
+set mbox_type = Maildir
+set hostname = "payetteschools.org"
+source /usr/local/share/mutt-wizard/switch.muttrc
+set spoolfile = +INBOX
+set postponed = +Drafts
+set trash = +Trash
+set record = "+Sent Items"
+
+macro index o "<shell-escape>mw -y nabommersbach@payetteschools.org<enter>" "run mbsync to sync nabommersbach@payetteschools.org"
+macro index g "<enter-command>unset wait_key<enter><shell-escape>gpg --list-secret-keys; printf 'Enter email ID of user to publish: '; read eID; printf 'Enter fingerprint of GPG key to publish: '; read eFGPT; /usr/local/libexec/gpg-wks-client --create \$eFGPT \$eID | msmtp --read-envelope-from --read-recipients -a nabommersbach@payetteschools.org<enter>"  "publish GPG key to WKS provider"
+macro index h "<pipe-message>/usr/local/libexec/gpg-wks-client --receive | msmtp --read-envelope-from --read-recipients -a nabommersbach@payetteschools.org<enter>" "confirm GPG publication"
+
+#named-mailboxes "📦 Archive" "=Archive" "🗑 Trash" "=Trash" "📝 Drafts" "=Drafts" "GAM" "=GAM" "📬 INBOX" "=INBOX" "Microsoft" "=Microsoft" "MMS Staff" "=MMS Staff" "📔 Notes" "=Notes" "Outbox" "=Outbox" "PHS Staff" "=PHS Staff" "
+#named-mailboxes "📦 Archive" "=Archive" "=Archives/2021" "=Archives/2022" "=Calendar/Birthdays" "=Calendar/United States holidays" "=Deleted Items/outlook.office365.com/Archives" "Drafts" "=Drafts" "GAM" "=GAM" "INBOX" "=INBOX" "Journal" "=Journal" "=Junk Email" "Microsoft" "=Microsoft" "=MMS Staff" "Notes" "=Notes" "Outbox" "=Outbox" "=PHS Staff" "=PPS Staff" "=PSD Scanner" "=RSS Feeds" "Sent" "=Sent" "=Sent Items" "Snoozed" "=Snoozed" "=Sync Issues/Conflicts" "=Sync Issues/Local Failures" "=Sync Issues/Server Failures" "Tasks" "=Tasks"
+mailboxes "=Archive" "=Archives/2021" "=Archives/2022" "=Calendar/Birthdays" "=Calendar/United States holidays" "=Deleted Items/outlook.office365.com/Archives" "=Drafts" "=GAM" "=INBOX" "=Journal" "=Junk Email" "=Microsoft" "=MMS Staff" "=Notes" "=Outbox" "=PHS Staff" "=PPS Staff" "=PSD Scanner" "=RSS Feeds" "=Sent" "=Sent Items" "=Snoozed" "=Sync Issues/Conflicts" "=Sync Issues/Local Failures" "=Sync Issues/Server Failures" "=Tasks"

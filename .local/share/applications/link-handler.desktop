@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=linkhandler
+Comment=For links
+Exec=/usr/bin/env linkhandler %U

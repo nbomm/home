@@ -1,0 +1,10 @@
+#!/bin/sh
+# Backup personal system files. Runs every night.
+# Define all dirs which you wish to backup here:
+backup_dirs="$HOME/.config $HOME/.local"
+
+for i in "$backup_dirs"; do
+	rsync -qaAu "$i" "$HOME/docs/dotfiles" 2>/dev/null
+done
+
+apt list --installed | cut -d "/" -f1 > "$HOME/docs/dotfiles/pkgs"

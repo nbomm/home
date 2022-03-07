@@ -1,0 +1,6 @@
+title: general
+author: Nathan B
+parent: default
+matches:
+  - trigger: ":@org"
+    replace: "@payetteschools.org"

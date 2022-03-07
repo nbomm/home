@@ -1,0 +1,609 @@
+Îb&.ªH…©generatorÄnvim§versionÄNVIM v0.6.1©max_kbyte
+£pidÍ/’¨encodingÄutf-8Îb&.ªƒ¡fÄ/tmp/zshHn2r1z¡cK¡n0Îb&,1ƒ¡fÄ/tmp/zshfQUXFt¡c¡n1Îb&+›<‚¡fÄ4/home/nabommersbach@psd371.org/.config/shell/bm-dirs¡n2Îb&+˜B„¡fÄ4/home/nabommersbach@psd371.org/.config/shell/bm-dirs¡l¡c¡n3Îb&*ñ@„¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lT¡c&¡n4Îb"]Ü9ƒ¡fÄ./home/nabommersbach@psd371.org/.local/bin/qndl¡l¡n5Îb"]s<„¡fÄ./home/nabommersbach@psd371.org/.local/bin/qndl¡l¡c)¡n6Îb"]M?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/newsboat/urls¡l¡n7Îb"Yøs‚¡fÄk/media/phsdocuments/My Documents/AnatomyOfTheState-Rothbard/Anatomy-of-the-State_-_Murray-Rothbard_djvu.txt¡n8Îb"YóK‚¡fÄC/media/phsdocuments/My Documents/AnatomyOfTheState-Rothbard/Anatomy¡n9Îb&+”1ƒ¢rc‘Ä#cac ${XDG_CACHE_HOME:-$HOME/.cache}¡n0¢rtÎb"9g$ƒ¢rc‘Ämacro index,pager gp "¡n1¢rtÎb!hd4ƒ¢rc‘Ä&source="/tmp/$(date '+%Y-%m-%d')-cros"¡n2¢rtÎb!hZBƒ¢rc‘Ä4[ -z "$1" ] && echo "Please give an email" && exit 1¡n3¢rtÎb!hLƒ¢rc‘Äfilter="$1"¡n4¢rtÎb!f;ƒ¢rc‘Ä[¡n5¢rtÎb!f!ƒ¢rc‘Ä[ ! -f "$source" ] ¡n6¢rtÎb!eî1ƒ¢rc‘Ä#source="/tmp/cros-$(date '+%Y-%m-%d¡n7¢rtÎb!dMƒ¢rc‘Äawk -F ¡n8¢rtÎb :'ƒ¢rc’ÄUsername: adminÄPassword¡n9¢rtÎa-eõ‚¢rc‘Äjk¡njÎbYã‚¢rc‘Äyi"hPF=r"ea" f"f"f"¡nqÎb&.kƒ¢rc‘Ä.local¡n-¢ruÃÎb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X"@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X'X¡fÄS/home/nabommersbach@psd371.org/.local/src/slock/patches/slock-terminalkeys-1.4.diffÎb"X)[‚¡fÄS/home/nabommersbach@psd371.org/.local/src/slock/patches/slock-terminalkeys-1.4.diff¡lÎb"Xn=¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.hÎb"XvC¡fÄ>/home/nabommersbach@psd371.org/.local/src/slock/config.h.def.hÎb"YnE¡fÄ@/home/nabommersbach@psd371.org/.local/src/slock/config.def.h.rejÎb"YóH¡fÄC/media/phsdocuments/My Documents/AnatomyOfTheState-Rothbard/AnatomyÎb"Yøp¡fÄk/media/phsdocuments/My Documents/AnatomyOfTheState-Rothbard/Anatomy-of-the-State_-_Murray-Rothbard_djvu.txtÎb"] 9¡fÄ4/home/nabommersbach@psd371.org/.config/newsboat/urlsÎb"]M<‚¡fÄ4/home/nabommersbach@psd371.org/.config/newsboat/urls¡lÎb"]o3¡fÄ./home/nabommersbach@psd371.org/.local/bin/qndlÎb"]s9ƒ¡fÄ./home/nabommersbach@psd371.org/.local/bin/qndl¡l¡c)Îb"]¾3¡fÄ./home/nabommersbach@psd371.org/.local/bin/qndlÎb"]Ü6‚¡fÄ./home/nabommersbach@psd371.org/.local/bin/qndl¡lÎb&*Û7¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrcÎb&*ê=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lU¡c/Îb&*ê=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lV¡c&Îb&*ê=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lU¡c/Îb&*ê=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lV¡c&Îb&*ê=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lU¡c/Îb&*ê=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lV¡c&Îb&*ê=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lU¡c/Îb&*ê=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lV¡c&Îb&*ê=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lU¡c/Îb&*ê=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lV¡c&Îb&*ì>ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lÌÌ¡cÎb&*î@ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lÌÑ¡cÍ@Îb&*ñ=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lT¡c&Îb&+‡9¡fÄ4/home/nabommersbach@psd371.org/.config/shell/bm-dirsÎb&+˜?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/shell/bm-dirs¡l¡cÎb&+›9¡fÄ4/home/nabommersbach@psd371.org/.config/shell/bm-dirsÎb&,1‚¡fÄ/tmp/zshfQUXFt¡cÎb&.ª‚¡fÄ/tmp/zshHn2r1z¡cKÎb&+„‚¢spÄgit¢scÃÎb–ø„¢spÄ\"=\(\w\+\)\"¢suÂ¢scÃ¢ssÃÎb&.ª‘Ä 
+Îb&.ª‚¡fÄ/tmp/zshHn2r1z¡cK
+Îb&.©ƒ¡fÄ/tmp/zshHn2r1z¡cL¡n^
+Îb&.©ƒ¡fÄ/tmp/zshHn2r1z¡cL¡n.Îb&.©‚¡fÄ/tmp/zshHn2r1z¡cL
+Îb&,1‚¡fÄ/tmp/zshfQUXFt¡c
+Îb&,0ƒ¡fÄ/tmp/zshfQUXFt¡c¡n^
+Îb&,0ƒ¡fÄ/tmp/zshfQUXFt¡c¡n.Îb&,0‚¡fÄ/tmp/zshfQUXFt¡c
+Îb&+›9¡fÄ4/home/nabommersbach@psd371.org/.config/shell/bm-dirs
+Îb&+—B„¡fÄ4/home/nabommersbach@psd371.org/.config/shell/bm-dirs¡l¡c¡n^
+Îb&+—B„¡fÄ4/home/nabommersbach@psd371.org/.config/shell/bm-dirs¡l¡c¡n.Îb&+—?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/shell/bm-dirs¡l¡c
+Îbšİ@„¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l¡cK¡nv
+Îb&*ñ=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lT¡c&
+Îb&*é@„¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lU¡c0¡n^
+Îb&*é@„¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lU¡c/¡n.Îb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡laÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l`Îb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lbÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡laÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lbÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡laÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l`Îb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lbÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡laÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lbÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡laÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l`Îb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lbÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡laÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lbÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡laÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l`Îb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lbÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡laÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lbÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡laÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l`Îb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lbÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡laÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lbÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡laÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l`Îb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lbÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡laÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lbÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡laÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l`Îb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lbÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡laÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lbÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡laÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l`Îb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lbÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡laÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lbÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡laÎb›:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l`Îb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡l[¡cMÎb ç=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cMÎb"9Y=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZ¡cÎb"9g:‚¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lZÎb&*å=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lV¡c/Îb&*é=ƒ¡fÄ2/home/nabommersbach@psd371.org/.config/mutt/muttrc¡lU¡c/
+Îb"]Ü6‚¡fÄ./home/nabommersbach@psd371.org/.local/bin/qndl¡l
+Îb"]s<„¡fÄ./home/nabommersbach@psd371.org/.local/bin/qndl¡l¡c*¡n^
+Îb"]r<„¡fÄ./home/nabommersbach@psd371.org/.local/bin/qndl¡l¡c)¡n.Îb í¾9ƒ¡fÄ./home/nabommersbach@psd371.org/.local/bin/qndl¡l¡cSÎb"]r9ƒ¡fÄ./home/nabommersbach@psd371.org/.local/bin/qndl¡l¡c)
+Îb"]M<‚¡fÄ4/home/nabommersbach@psd371.org/.config/newsboat/urls¡l
+Îb"Yøp¡fÄk/media/phsdocuments/My Documents/AnatomyOfTheState-Rothbard/Anatomy-of-the-State_-_Murray-Rothbard_djvu.txt
+Îb"YóH¡fÄC/media/phsdocuments/My Documents/AnatomyOfTheState-Rothbard/Anatomy
+Îb"YnE¡fÄ@/home/nabommersbach@psd371.org/.local/src/slock/config.def.h.rej
+Îb"X›@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l
+Îb"X†F„¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c%¡n^
+Îb"X‡Cƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡n.Îb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"XCƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c/Îb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡lÎb"X†Cƒ¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l¡c$Îb"X‡@‚¡fÄ8/home/nabommersbach@psd371.org/.local/src/slock/config.h¡l
+Îb"XvC¡fÄ>/home/nabommersbach@psd371.org/.local/src/slock/config.h.def.h
+Îb"X)[‚¡fÄS/home/nabommersbach@psd371.org/.local/src/slock/patches/slock-terminalkeys-1.4.diff¡l
+Îb"Uí;¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h
+Îb•–D„¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l)¡c¡n^
+Îb"DlBƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁ¡n.Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÀÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÀÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÀÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÀÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÀÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÀÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÀÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÀÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÀÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÀÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÀÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÀÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÀÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÀÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÀÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎbª?Aƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡c+Îbª??‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÀÎb•’>‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l*Îb•šAƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l)¡c3Îb•›?‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎb"DlAƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡cTÎb"Dl?‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎb"DlAƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡cTÎb"Dl?‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁÎb"DlAƒ¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡l¡cTÎb"Dl?‚¡fÄ6/home/nabommersbach@psd371.org/.local/src/dwm/config.h¡lÌÁ
+Îb"Uë:¡fÄ5/home/nabommersbach@psd371.org/.config/shell/bm-files
+Îb"Uç1‚¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡lÌ›
+Îb"Ar6„¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l¡c¡n^
+Îb"Aq6„¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l¡c¡n.Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡c^Îb"<&3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c^Îb"<—3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡cÎb"<»3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l	¡c Îb"=d3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l
+¡cpÎb"Ai3ƒ¡fÄ(/home/nabommersbach@psd371.org/.zprofile¡l¡c
+Îb"U¤‚¡fÄ/etc/ly/config.ini¡lC
+Îb"UVƒ¡fÄ/etc/ly/config.ini¡l¡n.Îb"UJ‚¡fÄ/etc/ly/config.ini¡lÎb"UV‚¡fÄ/etc/ly/config.ini¡l
+Îb"T†ƒ¡fÄ/etc/ly/xsetup.sh¡l9¡na
+Îb"U¤‚¡fÄ/etc/ly/xsetup.sh¡l
+Îb"Tó.ƒ¡fÄ#/home/nabommersbach@psd371.org/cabl¡l¡c
+Îb"S1„¡fÄ#/home/nabommersbach@psd371.org/cabl¡l¡c¡n.Îb"R#+‚¡fÄ#/home/nabommersbach@psd371.org/cabl¡c
+Îb"R6.ƒ¡fÄ#/home/nabommersbach@psd371.org/cabl¡l¡cÎb"RÏ+‚¡fÄ#/home/nabommersbach@psd371.org/cabl¡l
+Îb"RĞ+‚¡fÄ#/home/nabommersbach@psd371.org/cabl¡l	Îb"S.ƒ¡fÄ#/home/nabommersbach@psd371.org/cabl¡l¡c
+Îb"O:Fƒ¡fÄ:/home/nabommersbach@psd371.org/.local/src/st/st-urlhandler¡l¡cÌ‘
+Îb"OH„¡fÄ:/home/nabommersbach@psd371.org/.local/src/st/st-urlhandler¡l¡c¡n^
+Îb"O#Eƒ¡fÄ:/home/nabommersbach@psd371.org/.local/src/st/st-urlhandler¡l¡n.Îb"OB‚¡fÄ:/home/nabommersbach@psd371.org/.local/src/st/st-urlhandler¡lÎb"O#B‚¡fÄ:/home/nabommersbach@psd371.org/.local/src/st/st-urlhandler¡l
+Îb"KQƒ¡fÄF/home/nabommersbach@psd371.org/.local/share/applications/mimeapps.list¡l¡c
+Îb"KT„¡fÄF/home/nabommersbach@psd371.org/.local/share/applications/mimeapps.list¡l¡c¡n^
+Îb"KT„¡fÄF/home/nabommersbach@psd371.org/.local/share/applications/mimeapps.list¡l¡c¡n.ÎbnTK¡fÄF/home/nabommersbach@psd371.org/.local/share/applications/mimeapps.listÎb•GQƒ¡fÄF/home/nabommersbach@psd371.org/.local/share/applications/mimeapps.list¡l
+¡cÎbü0Qƒ¡fÄF/home/nabommersbach@psd371.org/.local/share/applications/mimeapps.list¡l¡c	Îb"KQƒ¡fÄF/home/nabommersbach@psd371.org/.local/share/applications/mimeapps.list¡l¡c
+Îb"G Iƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2147577-5009922103825790739¡l¡c/
+Îb"GL„¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2147577-5009922103825790739¡l¡c0¡n^
+Îb"GL„¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2147577-5009922103825790739¡l¡c/¡n.Îb"GIƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2147577-5009922103825790739¡l¡cÎb"GF‚¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2147577-5009922103825790739¡lÎb"GIƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2147577-5009922103825790739¡l¡cÎb"GF‚¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2147577-5009922103825790739¡lÎb"GIƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2147577-5009922103825790739¡l¡cÎb"GF‚¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2147577-5009922103825790739¡lÎb"GIƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2147577-5009922103825790739¡l¡c/
+Îb"FGG‚¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2147577-12062610228871248272¡lE
+Îb"FFJƒ¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2147577-12062610228871248272¡l¡n^
+Îb"FGJƒ¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2147577-12062610228871248272¡l¡n.Îb"FFG‚¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2147577-12062610228871248272¡c$Îb"FGG‚¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2147577-12062610228871248272¡l
+Îb"DìG‚¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2146658-10380470001170412067¡l1
+Îb"DëM„¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2146658-10380470001170412067¡l¡c¡n^
+Îb"DìJƒ¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2146658-10380470001170412067¡l¡n.Îb"DëJƒ¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2146658-10380470001170412067¡l¡cÎb"DìG‚¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2146658-10380470001170412067¡l
+Îb"D»9¡fÄ4/home/nabommersbach@psd371.org/.gnupg/gpg-agent.conf
+Îb÷;?ƒ¡fÄ4/home/nabommersbach@psd371.org/.gnupg/gpg-agent.conf¡c¡n^
+Îb÷;?ƒ¡fÄ4/home/nabommersbach@psd371.org/.gnupg/gpg-agent.conf¡c¡n.Îb)S<‚¡fÄ4/home/nabommersbach@psd371.org/.gnupg/gpg-agent.conf¡c
+Îb"DPA¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h
+Îb"C]J„¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡l¡c¡n^
+Îb"C^Gƒ¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡l¡n.Îb"CNGƒ¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡l¡c"Îb"CND‚¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡lÎb"CNGƒ¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡l¡c"Îb"CND‚¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡lÎb"CNGƒ¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡l¡c"Îb"CND‚¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡lÎb"CNGƒ¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡l¡c"Îb"CND‚¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡lÎb"CNGƒ¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡l¡c"Îb"CND‚¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡lÎb"CNGƒ¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡l¡c"Îb"CND‚¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡lÎb"CNGƒ¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡l¡c"Îb"CND‚¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡lÎb"CNGƒ¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡l¡c"Îb"CND‚¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡lÎb"CNGƒ¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡l¡c"Îb"CND‚¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡lÎb"C]Gƒ¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡l¡cÎb"C^D‚¡fÄ</home/nabommersbach@psd371.org/.local/src/dwmblocks/config.h¡l
+Îb"C£Gƒ¡fÄ</home/nabommersbach@psd371.org/.local/bin/statusbar/sb-tasks¡l¡c
+
+Îb"C¢J„¡fÄ</home/nabommersbach@psd371.org/.local/bin/statusbar/sb-tasks¡l¡c¡n^
+Îb"C¢J„¡fÄ</home/nabommersbach@psd371.org/.local/bin/statusbar/sb-tasks¡l¡c
+¡n.Îb"C Gƒ¡fÄ</home/nabommersbach@psd371.org/.local/bin/statusbar/sb-tasks¡l¡cÎb"C-Gƒ¡fÄ</home/nabommersbach@psd371.org/.local/bin/statusbar/sb-tasks¡l¡cÎb"CeGƒ¡fÄ</home/nabommersbach@psd371.org/.local/bin/statusbar/sb-tasks¡l¡cÎb"CD‚¡fÄ</home/nabommersbach@psd371.org/.local/bin/statusbar/sb-tasks¡lÎb"CD‚¡fÄ</home/nabommersbach@psd371.org/.local/bin/statusbar/sb-tasks¡lÎb"C¢Gƒ¡fÄ</home/nabommersbach@psd371.org/.local/bin/statusbar/sb-tasks¡l¡c
+
+Îb"B½C¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2141629-2504301631232894166
+Îb"B†‚¡fÄ/etc/doas.conf¡l
+Îb"Bu„¡fÄ/etc/doas.conf¡l¡c¡n^
+Îb"B€ƒ¡fÄ/etc/doas.conf¡l¡n.Îb"B‚¡fÄ/etc/doas.conf¡lÎb"B$ƒ¡fÄ/etc/doas.conf¡l¡cÎb"B%‚¡fÄ/etc/doas.conf¡lÎb"B€‚¡fÄ/etc/doas.conf¡l
+Îb"Bc.‚¡fÄ&/usr/share/doc/doas/examples/doas.conf¡l	
+Îb"BX"¡fÄ/usr/share/doc/doas/doas.conf
+Îb"Aò;‚¡fÄ3/home/nabommersbach@psd371.org/.config/x11/xprofile¡l
+Îb"AñA„¡fÄ3/home/nabommersbach@psd371.org/.config/x11/xprofile¡l¡c¡n^
+Îb"Añ>ƒ¡fÄ3/home/nabommersbach@psd371.org/.config/x11/xprofile¡l¡n.Îb å³>ƒ¡fÄ3/home/nabommersbach@psd371.org/.config/x11/xprofile¡l¡cÎb"Añ;‚¡fÄ3/home/nabommersbach@psd371.org/.config/x11/xprofile¡l
+Îb"A¾2ƒ¡fÄ'/home/nabommersbach@psd371.org/xinintrc¡l¡c
+Îb"A¸5„¡fÄ'/home/nabommersbach@psd371.org/xinintrc¡l¡c¡n^
+Îb"A¶5„¡fÄ'/home/nabommersbach@psd371.org/xinintrc¡l¡c¡n.Îb"A¶2ƒ¡fÄ'/home/nabommersbach@psd371.org/xinintrc¡l¡c
+Îb"<ï7¡fÄ2/home/nabommersbach@psd371.org/2022-03-03_cros.csv
+Îb"<Ö0¡fÄ+/home/nabommersbach@psd371.org/contacts.csv
+Îb"<Œ‚¡fÄ/etc/profile¡l
+Îb"<„¡fÄ/etc/profile¡l¡c¡n^
+Îb"<ƒ¡fÄ/etc/profile¡l%¡n.Îb"<ƒ¡fÄ/etc/profile¡l¡cÎb"<‚¡fÄ/etc/profile¡l%
+Îb"<b¡fÄ/etc/env
+Îb":›Iƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2046857-8917956887909681604¡l¡c
+Îb":›L„¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2046857-8917956887909681604¡l¡c¡n^
+Îb":™L„¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2046857-8917956887909681604¡l¡c¡n.Îb":ƒF‚¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2046857-8917956887909681604¡c@Îb":™Iƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2046857-8917956887909681604¡l¡c
+Îb":8F‚¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2046857-2546327090241567701¡l
+Îb":8Iƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2046857-2546327090241567701¡l¡n^
+Îb":7L„¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2046857-2546327090241567701¡l¡c¡n.Îb":%F‚¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2046857-2546327090241567701¡cHÎb":4Iƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2046857-2546327090241567701¡l¡cBÎb":7Iƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-2046857-2546327090241567701¡l¡c
+Îb"9À:¡fÄ5/home/nabommersbach@psd371.org/.config/awesome/rc.lua
+Îb"8«Jƒ¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2021317-13571031160393750002¡l¡c9
+Îb"8§M„¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2021317-13571031160393750002¡l¡c:¡n^
+Îb"8¦M„¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2021317-13571031160393750002¡l¡c9¡n.Îb"8‚Jƒ¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2021317-13571031160393750002¡l¡cÎb"8™G‚¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2021317-13571031160393750002¡cÎb"8¦Jƒ¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2021317-13571031160393750002¡l¡c9
+Îb"6ŸG‚¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2007609-10294390573785272236¡l
+Îb"6Jƒ¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2007609-10294390573785272236¡l¡n^
+Îb"6ŸJƒ¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2007609-10294390573785272236¡l¡n.Îb"6G‚¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2007609-10294390573785272236¡c7Îb"6ŸG‚¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2007609-10294390573785272236¡l
+Îb"6D¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-2007609-13338446092674978008
+Îb",;‚¡fÄ/tmp/zshuGGCnR¡c
+Îb",;ƒ¡fÄ/tmp/zshuGGCnR¡c¡n^
+Îb",9ƒ¡fÄ/tmp/zshuGGCnR¡c¡n.Îb",9‚¡fÄ/tmp/zshuGGCnR¡c
+Îb"&*‚¡fÄ/tmp/zshPeoNLN¡c>
+Îb"&*ƒ¡fÄ/tmp/zshPeoNLN¡c?¡n^
+Îb"&)ƒ¡fÄ/tmp/zshPeoNLN¡c>¡n.Îb"&)‚¡fÄ/tmp/zshPeoNLN¡c>
+Îb"$‚¡fÄ/tmp/zshjdxepr¡c
+Îb"$ƒ¡fÄ/tmp/zshjdxepr¡c¡n.Îb"$‚¡fÄ/tmp/zshjdxepr¡c
+Îb"#ö;‚¡fÄ3/home/nabommersbach@psd371.org/.local/bin/shortcuts¡l
+Îb"#¡Nƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡c(
+Îb""óQ„¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡cT¡n^
+Îb"#Nƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡n.Îb!dNƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡c;Îb!d!Nƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡cPÎb!d@K‚¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡lÎb!d­Oƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡cÌ½Îb!d¸Oƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡cÌÄÎb!dÉNƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡c3Îb!e Oƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡cÌˆÎb!eNƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡cÎb!e#Nƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡c
+Îb!e.Nƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡c-Îb!e7Oƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡cÌÚÎb!eÇNƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡c"Îb!eóNƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡cÎb!fK‚¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡lÎb!fNƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡cÎb!fK‚¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡lÎb!fNƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡cNÎb!f=Nƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡cÎb!gVOƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡cÌŒÎb!hNNƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡cÎb!hTNƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡cDÎb!hZK‚¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡lÎb!h[K‚¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡lÎb!hdK‚¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡lÎb!heK‚¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡lÎb!h}Nƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡cÎb!hÏNƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡c~Îb!iNƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡cÎb!ivNƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡cÎb!i~Nƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡cIÎb!i˜Nƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡cÎb!i¤Nƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡c&Îb!jNƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡c(Îb""óNƒ¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l¡cSÎb"#K‚¡fÄC/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/crosuser¡l
+Îb!hä‚¡fÄ/tmp/cros_filtered.csv¡l
+Îb!cèE¡fÄ@/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/cros/ruser
+Îb!cÚJ‚¡fÄB/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/scripts/user¡c
+Îb!cØMƒ¡fÄB/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/scripts/user¡c¡n^
+Îb!cØMƒ¡fÄB/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/scripts/user¡c¡n.Îb!cØJ‚¡fÄB/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/scripts/user¡c
+Îb!cD¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-1658547-10723617820377896165
+Îb!cJƒ¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-1658547-10723617820377896165¡l¡n.Îb!cG‚¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-1658547-10723617820377896165¡l
+Îb!`›-¡fÄ(/home/nabommersbach@psd371.org/oscar.csv
+Îbï’<„¡fÄ./home/nabommersbach@psd371.org/.config/lf/lfrc¡lO¡c¡na
+Îb!\¦3¡fÄ./home/nabommersbach@psd371.org/.config/lf/lfrc
+Îb!Z><„¡fÄ./home/nabommersbach@psd371.org/.config/lf/lfrc¡l[¡c¡n^
+Îb!ZP<„¡fÄ./home/nabommersbach@psd371.org/.config/lf/lfrc¡l[¡c¡n.Îb6Å3¡fÄ./home/nabommersbach@psd371.org/.config/lf/lfrcÎbï¥9ƒ¡fÄ./home/nabommersbach@psd371.org/.config/lf/lfrc¡lO¡cÎb!Z?9ƒ¡fÄ./home/nabommersbach@psd371.org/.config/lf/lfrc¡l[¡cÎb!ZP9ƒ¡fÄ./home/nabommersbach@psd371.org/.config/lf/lfrc¡l[¡c
+Îb![Ğ=¡fÄ8/home/nabommersbach@psd371.org/.local/src/dmenu/config.h
+Îb!ZJ¡fÄE/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/GamCommands.txt
+ÎbpñM‚¡fÄE/home/nabommersbach@psd371.org/.local/bin/gamadv-xtd3/GamCommands.txt¡n^
+Îb î:<¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings
+ÎbÿØF„¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌá¡c¡n^
+ÎbÿİCƒ¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâ¡n.Îbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌáÎbÿİ@‚¡fÄ7/home/nabommersbach@psd371.org/.config/ncmpcpp/bindings¡lÌâ
+Îb è+Nƒ¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡l	¡c
+Îb (Q„¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡l	¡c¡n^
+Îb 'Q„¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡l	¡c¡n.Îb vNƒ¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡l¡cÎb yNƒ¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡l¡cÎb zK‚¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡lÎb …Nƒ¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡l¡cÎb †K‚¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡lÎb ˆNƒ¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡l¡cÎb ‹Nƒ¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡l	¡cÎb ‹K‚¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡l
+Îb ‘Nƒ¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡l¡cÎb ‘K‚¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡lÎb •Nƒ¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡l¡cÎb ˜Nƒ¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡l¡cÎb ›Nƒ¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡l¡cÎb Nƒ¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡l¡cÎb  K‚¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡lÎb ¡K‚¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡lÎb £K‚¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡lÎb ©Nƒ¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡l¡cÎb ©K‚¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡lÎb ÔK‚¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡lÎb çK‚¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡lÎb éK‚¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡lÎb üNƒ¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡l¡c4Îb K‚¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡lÎb Nƒ¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡l¡cÎb Nƒ¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡l¡cÎb  Nƒ¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡l¡cÎb 'Nƒ¡fÄC/home/nabommersbach@psd371.org/onedrive/Documents/21-22 Work/w11.md¡l	¡c
+Îb ç[Jƒ¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-1451818-17902226199557019283¡l¡c
+Îb ç[M„¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-1451818-17902226199557019283¡l¡c¡n^
+Îb ç[M„¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-1451818-17902226199557019283¡l¡c¡n.Îb ç[Jƒ¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-1451818-17902226199557019283¡l¡c
+Îb å¬7¡fÄ2/home/nabommersbach@psd371.org/.config/x11/xinitrc
+Îb NIƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-1090710-2140834197997194228¡l¡c
+Îb NL„¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-1090710-2140834197997194228¡l¡c¡n^
+Îb ML„¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-1090710-2140834197997194228¡l¡c¡n.Îb WIƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-1090710-2140834197997194228¡l¡cÎb `Iƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-1090710-2140834197997194228¡l¡cÎb :F‚¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-1090710-2140834197997194228¡lÎb MIƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-1090710-2140834197997194228¡l¡c
+Îb l@ƒ¡fÄ5/home/nabommersbach@psd371.org/.config/ncmpcpp/config¡l¡c!
+Îb kC„¡fÄ5/home/nabommersbach@psd371.org/.config/ncmpcpp/config¡l¡c"¡n^
+Îb kC„¡fÄ5/home/nabommersbach@psd371.org/.config/ncmpcpp/config¡l¡c!¡n.Îb k@ƒ¡fÄ5/home/nabommersbach@psd371.org/.config/ncmpcpp/config¡l¡c!
+Îbÿ8‚¡fÄ0/home/nabommersbach@psd371.org/.local/bin/spotdl¡l
+ÎbşG‚¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-1077384-15318400977012341402¡l
+ÎbşM„¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-1077384-15318400977012341402¡l¡c¡n^
+ÎbşJƒ¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-1077384-15318400977012341402¡l¡n.ÎbşG‚¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-1077384-15318400977012341402¡lÎbşJƒ¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-1077384-15318400977012341402¡l¡cÎbşG‚¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-1077384-15318400977012341402¡l
+Îbş?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/nvim/init.vim¡lu¡c+
+Îb–-B„¡fÄ4/home/nabommersbach@psd371.org/.config/nvim/init.vim¡lu¡c+¡n^
+Îbş?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/nvim/init.vim¡lu¡n.Îb–=?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/nvim/init.vim¡lu¡c+Îbş<‚¡fÄ4/home/nabommersbach@psd371.org/.config/nvim/init.vim¡lu
+ÎbşD¡fÄ?/tmp/neomutt-PHS-NaBomm-1193623656-1077384-17352605863364401622
+ÎbıoIƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-1075450-2699078713128130972¡l¡c
+ÎbımL„¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-1075450-2699078713128130972¡l¡c¡n^
+ÎbıeL„¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-1075450-2699078713128130972¡l¡c¡n.ÎbıcIƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-1075450-2699078713128130972¡l¡cHÎbıeIƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-1075450-2699078713128130972¡l¡c
+Îbü#?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡l¡c
+Îbø{B„¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡l¡c+¡n^
+Îbøœ?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡l¡n.Îbôr?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡l¡cÎbøœ<‚¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡lÎbøœ<‚¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡lÎbøœ<‚¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡lÎbøœ<‚¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡lÎbøœ<‚¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡lÎbøœ<‚¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡lÎbøœ<‚¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡lÎbøœ<‚¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡lÎbøœ<‚¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡lÎbøœ<‚¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡lÎbøœ<‚¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡lÎbøœ<‚¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡lÎbøœ<‚¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡lÎbøœ<‚¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡lÎbøœ<‚¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡lÎbøœ<‚¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡lÎbøœ<‚¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡lÎbøœ<‚¡fÄ4/home/nabommersbach@psd371.org/.config/mimeapps.list¡l
+Îb¥Í,¡fÄ'/home/nabommersbach@psd371.org/ch08.tex
+Îb¥›2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l2¡n.Îb ­/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡c*Îb ½2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l
+¡c
+Îb ¿/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l	Îb ä2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l4¡c>Îb ä2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l4¡c0Îb ä2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l4¡c>Îb ä2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l4¡c0Îb ä2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l4¡c>Îb ä2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l4¡c0Îb ï2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cÎb õ2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cÎb ÷/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡lÎb¡2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cÎb¡-2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l4¡c=Îb¡62ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cÎb¡E/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡lÎb¡^2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cÎb¡{2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡c
+Îb¡™2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cÎb¡/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡lÎb¡Ï2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡c Îb¡Ï/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡lÎb¡Ï2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡c Îb¡Ï/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡lÎb¡Ï2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡c Îb¡Ï/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡lÎb¢2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cBÎb¢/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡lÎb¢)2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cÎb¢/2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡c7Îb¢u2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡c/Îb¢v/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡lÎb¢„2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡c,Îb¢„/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡lÎb¢„2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡c,Îb¢„/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡lÎb¢„2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡c,Îb¢„/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡lÎb¢§2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l!¡cÎb¢¨/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l Îb¢µ2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡c*Îb¢¶/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡lÎb¢¿2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡c%Îb¢ô2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l#¡cBÎb¢ô/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l Îb¢ô2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l#¡cBÎb¢ô/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l Îb¢ô2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l#¡cBÎb¢ô/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l Îb£“2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l(¡c=Îb£¢2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l!¡cÎb££/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l Îb£¤2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l!¡cÎb£¬2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l$¡c-Îb£Ç2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l)¡cJÎb£à2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l+¡cÎb£é2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l)¡cBÎb¤\2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l/¡cÎb¤^2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l4¡c0Îb¤z2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l0¡cIÎb¤…2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cÎb¤‡2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l(¡cIÎb¤‰2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l/¡cNÎb¤œ/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l.Îb¤â2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l3¡c=Îb¤ğ2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l/¡c Îb¥2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l4¡c/Îb¥2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l4¡c0Îb¥2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l4¡c1Îb¥2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l4¡c0Îb¥2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l4¡c1Îb¥2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l4¡c0Îb¥2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l4¡c1Îb¥2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l+¡cKÎb¥2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l3¡cLÎb¥ /‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l4Îb¥#/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l5Îb¥,/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡lÎb¥_2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡c,Îb¥_/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡lÎb¥_2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡c,Îb¥_/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡lÎb¥_2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡c,Îb¥_/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡lÎb¥k2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cHÎb¥w2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cDÎb¥€2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cKÎb¥€3ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cÌ”Îb¥€2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cKÎb¥€3ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cÌ”Îb¥€2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cKÎb¥€3ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cÌ”Îb¥‹2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cFÎb¥‹/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡lÎb¥‹2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cFÎb¥‹/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡lÎb¥‹2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cFÎb¥‹/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡lÎb¥Œ2ƒ¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l¡cFÎb¥›/‚¡fÄ'/home/nabommersbach@psd371.org/ch08.tex¡l2
+Îb $F‚¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-916722-10897154452564342921¡c
+Îb $Iƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-916722-10897154452564342921¡c¡n^
+Îb #Iƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-916722-10897154452564342921¡c¡n.Îb #F‚¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-916722-10897154452564342921¡c
+Îb›2E‚¡fÄ=/tmp/neomutt-PHS-NaBomm-1193623656-910345-4115648361727894231¡l
+Îb›2Hƒ¡fÄ=/tmp/neomutt-PHS-NaBomm-1193623656-910345-4115648361727894231¡l¡n^
+Îb›2Hƒ¡fÄ=/tmp/neomutt-PHS-NaBomm-1193623656-910345-4115648361727894231¡l¡n.Îb›2E‚¡fÄ=/tmp/neomutt-PHS-NaBomm-1193623656-910345-4115648361727894231¡c=Îb›2E‚¡fÄ=/tmp/neomutt-PHS-NaBomm-1193623656-910345-4115648361727894231¡l
+ÎbšæB¡fÄ=/home/nabommersbach@psd371.org/.local/share/abook/addressbook
+ÎbšäHƒ¡fÄ=/home/nabommersbach@psd371.org/.local/share/abook/addressbook¡l¡n.ÎbšäE‚¡fÄ=/home/nabommersbach@psd371.org/.local/share/abook/addressbook¡l
+ÎbšS7‚¡fÄ//usr/local/share/mutt-wizard/mutt-wizard.muttrc¡l
+Îb™q=„¡fÄ//usr/local/share/mutt-wizard/mutt-wizard.muttrc¡l¡c,¡n^
+Îbš:5ƒ¡fÄ*/home/nabommersbach@psd371.org/NERD_tree_1¡l¡c
+Îbš72‚¡fÄ*/home/nabommersbach@psd371.org/NERD_tree_1¡n.Îbòt/¡fÄ*/home/nabommersbach@psd371.org/NERD_tree_1
+Îb™?F‚¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-906728-15516485747825838884¡l
+Îb™>L„¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-906728-15516485747825838884¡l¡c¡n^
+Îb™?Iƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-906728-15516485747825838884¡l¡n.Îb™$Iƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-906728-15516485747825838884¡l¡c:Îb™&F‚¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-906728-15516485747825838884¡lÎb™5Iƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-906728-15516485747825838884¡l¡c;Îb™?F‚¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-906728-15516485747825838884¡l
+Îb˜ÏB¡fÄ=/tmp/neomutt-PHS-NaBomm-1193623656-899089-2699959755027820436
+Îb—hE‚¡fÄ=/tmp/neomutt-PHS-NaBomm-1193623656-899089-9540825962708862604¡c!
+Îb–pHƒ¡fÄ=/tmp/neomutt-PHS-NaBomm-1193623656-899089-9540825962708862604¡c"¡n^
+Îb–Hƒ¡fÄ=/tmp/neomutt-PHS-NaBomm-1193623656-899089-9540825962708862604¡c"¡n.Îb–E‚¡fÄ=/tmp/neomutt-PHS-NaBomm-1193623656-899089-9540825962708862604¡c"
+Îb—P!ƒ¡fÄ/etc/pam.d/common-auth¡l¡c
+Îb—O$„¡fÄ/etc/pam.d/common-auth¡l¡c¡n^
+Îb—N$„¡fÄ/etc/pam.d/common-auth¡l¡c¡n.Îb ½‚¡fÄ/etc/pam.d/common-auth¡lÎb'Œ‚¡fÄ/etc/pam.d/common-auth¡lÎb'Œ‚¡fÄ/etc/pam.d/common-auth¡lÎb'‚¡fÄ/etc/pam.d/common-auth¡lÎb'‚¡fÄ/etc/pam.d/common-auth¡lÎb'˜!ƒ¡fÄ/etc/pam.d/common-auth¡l¡c&Îb'˜!ƒ¡fÄ/etc/pam.d/common-auth¡l¡c&Îb'¤!ƒ¡fÄ/etc/pam.d/common-auth¡l¡cÎb'¤‚¡fÄ/etc/pam.d/common-auth¡lÎb'¤!ƒ¡fÄ/etc/pam.d/common-auth¡l¡cÎb'¤‚¡fÄ/etc/pam.d/common-auth¡lÎb'¤!ƒ¡fÄ/etc/pam.d/common-auth¡l¡cÎb'¤‚¡fÄ/etc/pam.d/common-auth¡lÎb'¤!ƒ¡fÄ/etc/pam.d/common-auth¡l¡cÎb'¤‚¡fÄ/etc/pam.d/common-auth¡lÎb'¤!ƒ¡fÄ/etc/pam.d/common-auth¡l¡cÎb'¤‚¡fÄ/etc/pam.d/common-auth¡lÎb'¤!ƒ¡fÄ/etc/pam.d/common-auth¡l¡cÎb'¤‚¡fÄ/etc/pam.d/common-auth¡lÎb'¤!ƒ¡fÄ/etc/pam.d/common-auth¡l¡cÎb'¤‚¡fÄ/etc/pam.d/common-auth¡lÎb'¤!ƒ¡fÄ/etc/pam.d/common-auth¡l¡cÎb'¤‚¡fÄ/etc/pam.d/common-auth¡lÎb'¤!ƒ¡fÄ/etc/pam.d/common-auth¡l¡cÎb'¤‚¡fÄ/etc/pam.d/common-auth¡lÎb—N!ƒ¡fÄ/etc/pam.d/common-auth¡l¡c
+Îb•/Oƒ¡fÄD/home/nabommersbach@psd371.org/.local/share/applications/img.desktop¡l¡c
+Îb•.R„¡fÄD/home/nabommersbach@psd371.org/.local/share/applications/img.desktop¡l¡c	¡n^
+Îb•-R„¡fÄD/home/nabommersbach@psd371.org/.local/share/applications/img.desktop¡l¡c¡n.Îb•L‚¡fÄD/home/nabommersbach@psd371.org/.local/share/applications/img.desktop¡cÎb•L‚¡fÄD/home/nabommersbach@psd371.org/.local/share/applications/img.desktop¡cÎb•I¡fÄD/home/nabommersbach@psd371.org/.local/share/applications/img.desktopÎb•'Oƒ¡fÄD/home/nabommersbach@psd371.org/.local/share/applications/img.desktop¡l¡cÎb•+Oƒ¡fÄD/home/nabommersbach@psd371.org/.local/share/applications/img.desktop¡l¡cÎb•-Oƒ¡fÄD/home/nabommersbach@psd371.org/.local/share/applications/img.desktop¡l¡c
+Îb”Ù2¡fÄ-/home/nabommersbach@psd371.org/common-session
+Îb©‚¡fÄ/etc/neomuttrc¡lF
+Îb¨¦Gƒ¡fÄ</tmp/neomutt-PHS-NaBomm-1193623656-513392-643809114852533131¡l¡c
+Îb¨¦J„¡fÄ</tmp/neomutt-PHS-NaBomm-1193623656-513392-643809114852533131¡l¡c¡n^
+Îb¨¥J„¡fÄ</tmp/neomutt-PHS-NaBomm-1193623656-513392-643809114852533131¡l¡c¡n.Îb¨ŒGƒ¡fÄ</tmp/neomutt-PHS-NaBomm-1193623656-513392-643809114852533131¡l¡cFÎb¨‘D‚¡fÄ</tmp/neomutt-PHS-NaBomm-1193623656-513392-643809114852533131¡lÎb¨›D‚¡fÄ</tmp/neomutt-PHS-NaBomm-1193623656-513392-643809114852533131¡lÎb¨Gƒ¡fÄ</tmp/neomutt-PHS-NaBomm-1193623656-513392-643809114852533131¡l¡cÎb¨¤Gƒ¡fÄ</tmp/neomutt-PHS-NaBomm-1193623656-513392-643809114852533131¡l¡cÎb¨¥Gƒ¡fÄ</tmp/neomutt-PHS-NaBomm-1193623656-513392-643809114852533131¡l¡c
+Îb§Å?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ3
+Îb§»C„¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l¡c¡n^
+Îb§ÂBƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2¡n.ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÊ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂÊ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂÜ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂİ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2ÎbÂì@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l	¡c6ÎbÂí?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2Îb“ñ@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l¡c"Îb“ò?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2Îb§f@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l¡cÎb§g?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2Îb§‡@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l¡cÎb§ˆ?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2Îb§›@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l¡cÎb§?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2Îb§¦@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l¡c,Îb§¦?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2Îb§¦@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l¡c,Îb§¦?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2Îb§¦@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l¡c,Îb§¦?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2Îb§¦@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l¡c,Îb§¦?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2Îb§¦@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l¡c,Îb§¦?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2Îb§¦@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l¡c,Îb§¦?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2Îb§¦@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l¡c,Îb§¦?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2Îb§¦@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l¡c,Îb§¦?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2Îb§¦@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l¡c,Îb§¦?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2Îb§¾@ƒ¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡l¡c*Îb§¿?‚¡fÄ5/home/nabommersbach@psd371.org/.local/src/st/config.h¡lÍ2
+Îb§V<¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h
+ÎbTE„¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡l[¡c¡n^
+ÎbUCƒ¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÌÍ¡n.Îb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.Œ?‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÎb.–Bƒ¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡l¡cÎb.˜@‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÌÍÎb0CBƒ¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡l¡c[Îb0H@‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÌÍÎbæ«@‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÌ„ÎbTBƒ¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡l[¡cÎbU@‚¡fÄ7/home/nabommersbach@psd371.org/.local/src/surf/config.h¡lÌÍ
+Îb”&F‚¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-480217-11929752193398677627¡l
+Îb”%Iƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-480217-11929752193398677627¡l¡n^
+Îb”&Iƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-480217-11929752193398677627¡l¡n.Îb”%F‚¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-480217-11929752193398677627¡cÎb”&F‚¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-480217-11929752193398677627¡l
+Îb‘;F‚¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-475079-11556558550609258413¡l)
+Îb‘:Iƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-475079-11556558550609258413¡l¡n^
+Îb‘;Iƒ¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-475079-11556558550609258413¡l)¡n.Îb‘:F‚¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-475079-11556558550609258413¡cÎb‘;F‚¡fÄ>/tmp/neomutt-PHS-NaBomm-1193623656-475079-11556558550609258413¡l)
+Îb‘ Cƒ¡fÄ8/home/nabommersbach@psd371.org/.config/lynx/lynx.keymaps¡l¡c
+Îb‘ F„¡fÄ8/home/nabommersbach@psd371.org/.config/lynx/lynx.keymaps¡l¡c¡n^
+ÎbÿF„¡fÄ8/home/nabommersbach@psd371.org/.config/lynx/lynx.keymaps¡l¡c¡n.Îbî@‚¡fÄ8/home/nabommersbach@psd371.org/.config/lynx/lynx.keymaps¡lÎbî=¡fÄ8/home/nabommersbach@psd371.org/.config/lynx/lynx.keymapsÎbï@‚¡fÄ8/home/nabommersbach@psd371.org/.config/lynx/lynx.keymaps¡lÎbı@‚¡fÄ8/home/nabommersbach@psd371.org/.config/lynx/lynx.keymaps¡cÎbÿCƒ¡fÄ8/home/nabommersbach@psd371.org/.config/lynx/lynx.keymaps¡l¡c
+Îb_Öd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡l
+Îb_Ôj„¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡l¡c¡n^
+Îb_Õgƒ¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡l¡n.ÎbWXd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbWgƒ¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡l¡c'ÎbW‹d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbXÁhƒ¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡l¡cÌïÎbY	d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY+d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY+d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY+d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY+d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY+d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY+d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY+d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY+d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY+d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY+d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY+d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY+d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY+d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY+d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY+d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY+d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY+d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY+d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY>d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY>d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY>d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY>d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY>d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY>d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY>d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY>d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY>d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY>d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY>d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY>d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY>d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY>d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY>d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY>d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY>d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY>d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbY>d‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYCd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYµd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYµd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYµd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYµd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYµd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYµd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYµd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYµd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYµd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYµd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYµd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYµd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYµd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYµd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYµd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYµd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYµd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYµd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎbYæhƒ¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡l¡cÌßÎbYõd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎb_ˆgƒ¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡l¡cÎb_¤gƒ¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡l¡cÎb_Ôd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡lÎb_Õd‚¡fÄ\/home/nabommersbach@psd371.org/.config/mutt/accounts/nabommersbach@payetteschools.org.muttrc¡l
+Îb_œA¡fÄ</home/nabommersbach@psd371.org/.config/mutt/accounts/neomutt
+ÎbW'8¡fÄ3/home/nabommersbach@psd371.org/.config/mutt/mailbox
+ÎbM‹@ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡l¡cÌ„
+ÎbM‹C„¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡l¡cÌ…¡n^
+ÎbMŠC„¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡l¡cÌ„¡n.Îbè.?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡l¡c+Îbè.?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡l¡c+Îb¯c<‚¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡lÎb¯i?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡l)¡cÎb¯i?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡l(¡cÎbä'?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡l¡c
+Îbb!<‚¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡lMÎbb!<‚¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡lLÎbb!<‚¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡lMÎbb!<‚¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡lLÎbb!<‚¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡lKÎbb%?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡lL¡cÎbb%?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡lK¡cÎbb%?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡lL¡cÎbb%?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡lK¡cÎbb%?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡lJ¡cÎbÆ?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡l¡c+ÎbÆ?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡l¡c+Îb <‚¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡l8Îb <‚¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡l7Îb <‚¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡l8Îb <‚¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡l7Îb <‚¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡l6Îbn?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡l6¡cÎbn?ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡l5¡cÎbMŠ@ƒ¡fÄ4/home/nabommersbach@psd371.org/.config/shell/aliasrc¡l¡cÌ„
+ÎbM:)¡fÄ$/home/nabommersbach@psd371.org/abook
+ÎbGD‚¡fÄ</tmp/neomutt-PHS-NaBomm-1193623656-351847-267185953149794532¡l
+ÎbGGƒ¡fÄ</tmp/neomutt-PHS-NaBomm-1193623656-351847-267185953149794532¡l¡n^
+ÎbGGƒ¡fÄ</tmp/neomutt-PHS-NaBomm-1193623656-351847-267185953149794532¡l¡n.ÎbGGƒ¡fÄ</tmp/neomutt-PHS-NaBomm-1193623656-351847-267185953149794532¡l¡c	ÎbGD‚¡fÄ</tmp/neomutt-PHS-NaBomm-1193623656-351847-267185953149794532¡l
+ÎbF¡fÄ/etc/network/interfaces
+ÎbF%„¡fÄ/etc/network/interfaces¡l¡c¡n.ÎbF"ƒ¡fÄ/etc/network/interfaces¡l¡c
+ÎbEş‚¡fÄ/etc/dhcp/dhclient.conf¡l
+ÎbEø¡fÄ/etc/dhcp/dhclient
+ÎbEğ¡fÄ
+/etc/hosts
+Îbn=‚¡fÄ5/home/nabommersbach@psd371.org/.local/bin/linkhandler¡l
+Îbm<ƒ¡fÄ1/home/nabommersbach@psd371.org/.config/zsh/.zshrc¡l¡c	
+Îbm?„¡fÄ1/home/nabommersbach@psd371.org/.config/zsh/.zshrc¡l¡c	¡n^
+Îbm?„¡fÄ1/home/nabommersbach@psd371.org/.config/zsh/.zshrc¡l¡c	¡n.Îbm<ƒ¡fÄ1/home/nabommersbach@psd371.org/.config/zsh/.zshrc¡l¡c	Îbm<ƒ¡fÄ1/home/nabommersbach@psd371.org/.config/zsh/.zshrc¡l¡c	
+Îbm;‚¡fÄ1/home/nabommersbach@psd371.org/.cache/zsh/history¡lÍ»
+ÎbkÑc‚¡fÄ[/home/nabommersbach@psd371.org/.local/share/password-store/nabommersbach@payetteschools.org¡c
+ÎbkÑfƒ¡fÄ[/home/nabommersbach@psd371.org/.local/share/password-store/nabommersbach@payetteschools.org¡c¡n^
+ÎbkĞfƒ¡fÄ[/home/nabommersbach@psd371.org/.local/share/password-store/nabommersbach@payetteschools.org¡c¡n.ÎbkĞc‚¡fÄ[/home/nabommersbach@psd371.org/.local/share/password-store/nabommersbach@payetteschools.org¡cÎ`ÈäQ’ Ä!qÎ`ÈæW’ ÄPlugÎ`Ë{T’ ÄerÎ`Ğ¸İ’ ÄzxÎ`Ğ½u’ Ä!pkill -u nbommÎ`ìB’ Ä!xÎ`ñ²ÿ’ Ä//dÎ`ñ³a’ Ä%s/-12-01/gÎ`ñ³a’ Ä
+%s/-M-13/gÎ`ñ³a’ Ä
+%s/-M-19/gÎ`ñ³a’ Ä
+%s/-2-23/gÎ`ñ³a’ Ä%s/-06-01/gÎ`ñ³a’ Ä
+%s/-9-22/gÎ`ñ³a’ Ä%s/-12-19/gÎ`ñ³a’ Ä%s/-AG-30/gÎ`ñ³a’ Ä
+%s/-2-20/gÎ`ñ³a’ Ä%s/-03-20/gÎ`ñ³a’ Ä
+%s/-6-10/gÎ`ñ³a’ Ä%s/-14-01/gÎ`ñ³a’ Ä%s/-10-08/gÎ`ñ³a’ Ä
+%s/-3-24/gÎ`ñ³a’ Ä
+%s/-4-12/gÎ`ñ³a’ Ä
+%s/-8-30/gÎ`ñ³a’ Ä%s/-11-03/gÎ`ñ³b’ Ä
+%s/-M-15/gÎ`ñ³b’ Ä%s/-02-04/gÎ`ñ³b’ Ä%s/-06-04/gÎ`ñ³b’ Ä%s/-ELL-16/gÎ`ñ³b’ Ä
+%s/-8-02/gÎ`ñ³b’ Ä
+%s/-9-17/gÎ`ñ³b’ Ä
+%s/-8-18/gÎ`ñ³b’ Ä
+%s/-3-18/gÎ`ñ³b’ Ä
+%s/-8-27/gÎ`ñ³b’ Ä
+%s/-8-28/gÎ`ñ³b’ Ä
+%s/-9-04/gÎ`ñ³b’ Ä%s/-13-08/gÎ`ñ³b’ Ä%s/-06-23/gÎ`ñ³b’ Ä
+%s/-3-01/gÎ`ñ³b’ Ä
+%s/-9-01/gÎ`ñ³b’ Ä
+%s/-8-23/gÎ`ñ³b’ Ä
+%s/-4-11/gÎ`ñ³b’ Ä%s/-06-15/gÎ`ñ³b’ Ä
+%s/-8-17/gÎ`ñ³b’ Ä%s/-10-14/gÎ`ñ³b’ Ä%s/-11-17/gÎ`ñ³b’ Ä
+%s/-9-18/gÎ`ñ³b’ Ä
+%s/-9-24/gÎ`ñ³b’ Ä%s/ Riddick 06-03/gÎ`ñ³b’ Ä
+%s/-8-06/gÎ`ñ³b’ Ä%s/-14-11/gÎ`ñ³b’ Ä%s/-13-25/gÎ`ñ³b’ Ä
+%s/-7-11/gÎ`ñ³b’ Ä
+%s/-4-19/gÎ`ñ³b’ Ä%s/-05-18/gÎ`ñ³b’ Ä%s/-06-16/gÎ`ñ³b’ Ä
+%s/-4-29/gÎ`ñ³b’ Ä%s/-12-17/gÎ`ñ³b’ Ä%s/-10-09/gÎ`ñ³b’ Ä
+%s/-9-14/gÎ`ñ³b’ Ä%s/-06-08/gÎ`ñ³b’ Ä
+%s/-5-30/gÎ`ñ³b’ Ä%s/-11-11/gÎ`ñ³b’ Ä
+%s/-4-09/gÎ`ñ³b’ Ä
+%s/-9-09/gÎ`ñ³b’ Ä%s/-06-14/gÎ`ñ³b’ Ä
+%s/-9-16/gÎ`ñ³b’ Ä%s/-ELL-15/gÎ`ñ³b’ Ä
+%s/-9-30/gÎ`ñ³b’ Ä
+%s/-2-22/gÎ`ñ³b’ Ä
+%s/-2-07/gÎ`ñ³b’ Ä%s/-12-29/gÎ`ñ³b’ Ä%s/-10-06/gÎ`ñ³b’ Ä
+%s/-8-21/gÎ`ñ³b’ Ä%s/-06-21/gÎ`ñ³b’ Ä%s/-01-28/gÎ`ñ³b’ Ä%s/-06-19/gÎ`ñ³u’ Ä'<,'>q!Î`ñ³y
+’ Ä%s/g/gÎ`ñ³’	’ Ä/^$/dÎ`ñ³˜
+’ Äg/^$/dÎ`õˆs’ Äw /tmp/cb_listÎa /ß’ Ä:q!ÎaA¡
+’ Ä!setbgÎaA§’ Ä
+!unclutterÎa	E¯’ Är ~/screen.shÎa	\X’ Ä'<,'>s/$/ X 2/Îa	]‘’ ÄExÎa	_’ ÄsavÎa	_‚’ Ä
+sav new.mdÎa	†\’ Äh tabnewÎa	›K’ Ä!chmod +x serverselectÎa	º~’ Äs/pamixer/pulsemixer/gÎa”G’ Äw! | !compiler "Îa–’ Äw!ÎaC’ Ä
+earlier 1hÎaC’ ÄeaÎaC	’ Äea 1hÎaÎÓ
+’ Är!dateÎaÒ§’ Ä%s/sudo/doas/gÎa~·"’ Är ~/docs/SSH/pdo-frontdesk.pubÎa´‚’ Är !dateÎa &v’ Ä!chmod +x .Îa#Æ’ Ä'<,'>s/^/\#/Îa%
+‘’ Ä	VimwikiInÎa%
+“’ ÄVimwikiIndeÎa)o’ Ä!echo "hello" | tr -d '\n'Îa)€’ Ä!date | tr -d '\n'Îa)„	’ Ä!dateÎa)f’ Ähelp :r!Îa)Á’ Ä
+help ++optÎa)Bl’ Ä'<,'>s/^/---/Îa-dÙ’ Ä%s/HP G8/HP-G8/gÎa-då’ Ä%s/HP G8 /HP-G8-/gÎa-e’ Äw /tmp/pas_cbÎa-e’ Ä	%s/ /\t/gÎa-e1’ Ä%s/ HP/<++>/gÎa-e9’ Ä%s/ PHS/Îa-eA’ Ä%s/ HP/<++>HP/gÎa-eS’ Ä%s/ PHS/<++>PHS/gÎa-el’ Äw /tmp/pas_cb1Îa2_¿’ Ä'<,'Îa2cÑ’ Ä
+'<,'>sort Îa2d’ Ä	'<,'>sortÎa2ŠÃ’ ÄwwÎa8Ö’ Ä'<,'>s/^/#/gÎa;†’ Ä'<,'>s/^/---/gÎa;¹@’ Ä<r //server-phs/administrators/Windows 10 Pro Product Key.txtÎa;¹­-’ Ä)r /mnt/Windows\ 10\ Pro\ Product\ Key.txtÎa;¹½’ Äw docs/win10_product-keyÎaN7†’ Äw:eÎaıbí’ Äx!Îaırí’ ÄweÎb•Õ’ Äve dwm.c.rejÎb–2’ Ä'<,'>s/^/\/\*/Îb–B’ Ä'<,'>s/$/ \/\*/Îb™%’ Ä!vsplit ~/.local/src/dwm2/config.hÎbš7’ Äe4Îb’ Ä!chmod +x volumeÎb?N’ Ä1940Îb?l’ Ä1945Îb?x’ Ä1949Îb
+o8’ Ävsplit config.mk.rejÎb
+o•’ Ä438Îb
+oã’ ÄxwÎb
+r’ Ävsplit config.mkÎb
+s›’ Ä	vim dwm.cÎb
+sÓ’ Ä'<,'>s/^/\/*/Îb
+sâ’ Ä'<,'>s/^/\\\/Îb
+sï’ Ä'<,'>s/^/\\\\/Îb
+ul’ Ävsplit config.def.hÎb
+uÑ’ Ävsplit configÎb
+y’ Ävsplit ../dwm2/config.hÎbpÍ’ Ä422ÎbrË	’ Ä!makeÎbóñ’ Ävsplit dwm.c.rejÎb­"’ Äe ~/.local/src/dwm/config.hÎb­ç’ Ä710Îb®!’ Ä817Îb®]
+’ Äif (ISÎbÜ"’ Ävsplit config.def.h.rejÎbÜ[’ Ä90Îbß´’ Ävsplit dwm.cÎbì’ Ävsplit st.cÎb’’ Ä:)Îb’ Ävsplit Îbİ’ Äx hoursÎbº&’ Ä"'<,'>s/\.surf/\.local\/cache\/surfÎbºÓ’ Ävsplit surf.cÎb»›’ Ävsplit conifg.hÎb» ’ Ävsplit config.hÎb»¨’ Ävsplit patchesÎb*Ğ’ Ä	css-colorÎb>š’ ÄcoloÎb>®
+’ ÄvimgreÎb>÷’ Ä
+PlugUpdateÎb?’ ÄPlugUpgradeÎb?^’ Är ~/.config/nvim/init.Îb?a’ Är ~/.config/nvim/init.vimÎb?r’ Äso %Îb?v’ ÄPlugInstallÎb?~’ Äe ~/.config/nvim/Îb?‚
+’ Ä'<,'>qÎb?Ñ’ Är ~rd/dwm/config.hÎb?Ù’ Är ~/.local/src/dwm/config.hÎb?ø’ Äh vim-css-colorÎb?û
+’ Äh css-ÎbA¿’ Ä	w spot.shÎbH’ Ä'<,'>s/local\//Îbó’ Ävsp config.def.hÎb—’ Ä214Îbî ’ Ä'<,'>s/\.surf/\.local\/shareÎb]å’ Ä'<,'>s/surf/cache\/surfÎb`N’ Ä
+vsp surf.cÎb`s’ Ävsp config.hÎbcß’ Ävsp firefox-esr.desktopÎbcè’ Ävsp nvim.desktopÎbcğ’ Ävsp mpv.desktopÎbµ’ ÄQ!Îb)\’ Ä!mkdir ~/.gnupgÎb0ß ’ Ävsp ~/bookmarks_2_24_22.htmlÎb3e’ Ävsp css/main.cssÎb
+j’ Ä!surf-open.shÎb^’ ÄxÎbôF’ Är zathura.desktopÎbm	’ Ä%s//gÎbnS’ Är ~/.config/mimeapps.listÎbG[’ Äset ignorecaseÎbY}	’ Äs/"=.ÎbYŠ’ Äs/\".*\"ÎbZ’ Ä	'<,'>s/\"ÎbZ*’ Ä
+'<,'>s/\S*ÎbZ-’ Äs/ÎbZg’ Äs/\"\S\+/&/gÎbZu’ Äs/\"\S\+/& &/gÎbZÇ’ Ä
+s/"(\S\+)"Îb_’ Äs/"=(\S\+)\"/\"\1\" &/gÎb_
+’ Äs/\"=(\S\+)\"/\"\1\" &/gÎb_’ Äs/\"\=(\S\+)\"/\"\1\" &/gÎb_-’ Äs/"=.\+Îb_h’ Äs/"=(\w\+)\"/"\1" &/gÎb_{’ Äs/"=\(\w\+\)\"/"\1" &/gÎb•’ Är torrent.desktopÎb• ’ Ä!make cleanÎb–œ6’ Ä2r accounts/nabommersbach@payetteschools.org.muttrcÎb–ğ’ Äs/\"=(\w\+)\"/\"\1\" &/gÎb–ø’ Äs/\"=\(\w\+\)\"/\"\1\" &/gÎb˜ë#’ Äsetlocal spell! spelllang=en_usÎb™q’ Äq!Îb™’ Ävsp ~/.config/mutt/muttrcÎbš?’ Ävsp .config/mutt/muttrcÎbšl5’ Ä1r /usr/local/share/mutt-wizard/mutt-wizard.muttrcÎb¡’ ÄVimwikiIndexÎb¥·’ Ä!pwdÎb!e=’ Ä!chmod +x %Îb!iN’ Ä!shellcheck %Îb"A½’ ÄXÎb"R$’ ÄeÎb"TA’ ÄqaÎb"U}’ Ävsp /etc/ly/xsetup.shÎb"Xn’ Ävsp config.h.def.hÎb"Xv’ Äe config.def.h.rejÎb&*ê’ ÄwÎb&+˜’ ÄwqÎb&+›’ ÄqÎ`Èæš“Äplug.vim/Î`Èç÷
+“Äbrave/Î`ÉQ	“Ämenu/Î`ÉÛ
+“Äxterm/Î`Éİ	“Äterm/Î`Éß“Äur/Î`Éå
+“Äurxvt/Î`É°“Älsb-rel/Î`Éì“Älsb-release/Î`Éş“Ächeckup/Î`Ê;	“Ämula/Î`Ê
+“ÄXINIT/Î`Êj“Älibxft/Î`ÊJÂ“Äaliasrc/Î`ÊUl
+“Äaudio/Î`ÊUo
+“Äpulse/Î`ÊUq	“Äalsa/Î`ÊUz
+“Äsound/Î`Ë`C“ÄW-d/Î`Ë`J	“Äquit/Î`Ë`È
+“ÄClose/Î`Ëa'“Ä
+own_window/Î`Ëmğ“ÄA-1/Î`Ëmö“ÄA-S/Î`Ën¨“ÄSendTo/Î`Ëw}“Äpacman/Î`Ëx;“Äsyntax/Î`Ë™“Ädt-dark/Î`Ì©>“Ämaximize/Î`ÌªJ	“Äupc=/Î`ÌºÍ“ÄwM/Î`Ğ¶•
+“Äconky/Î`Ğ½+“Äw/Î`Ğ½e“Ä	main menu/Î`ĞÉW“Äshortcut/Î`ĞÉY	“Äbind/Î`ĞÎp	“Äutil/Î`ĞÎv“Äutostart/Î`ĞÏB“Ä
+util.spawn/Î`ĞÏÊ
+“Äwallp/Î`ĞĞª“Änewindex/Î`ĞĞÉ
+“Ätheme/Î`Ñ¹“ÄF2/Î`Ñè
+“Ätitle/Î`Ñì“Ä	titlebars/Î`Ñƒ
+“Ä\"M\"/Î`Ñ
+“Ä\"f\"/Î`Ò ×“Ä\<background_opacity\> Î`ÒÏ“Ärr/Î`ÒŠ
+“Ä\<0\> Î`ÒR	“Äbell/Î`Òî“Äremmina/Î`Òâ“Ämodkey/Î`Òî“ÄMod/Î`ÒÎ
+“Äcycle/Î`Òó“Ä
+clientkeys/Î`Ö+Ş“Ä	wallpaper/Î`ÚS^“Äxautlock/Î`ÚSì
+“Äxauto/Î`ÚSï
+“Äsxhkd/Î`ßƒ“Äremaps/Î`ß4
+“ÄMinux/Î`ß7
+“ÄMinus/Î`ß<	“ÄMinu/Î`ß…“Ä-/Î`ß‘“Ä\+/Î`ß<Œ“Äautocmd/Î`ßB«
+“Älarbs/Î`ßBà	“Ähash/Î`ã0Ù	“Äsbin/Î`ã2“Ä	autostart/Î`ã2
+“Ästart/Î`ã2Î“Ä
+super + w /Î`ã2ó
+“Ä\"w\"/Î`ã2ö“Ä"w"/Î`ã2û“Ä"W/Î`ã3’“Äsu=/Î`ã3““Äsu/Î`ãNg
+“Ädunst/Î`ãO	“ÄTERM/Î`äİ›“Äagu/Î`äİ©“Ä
+autoremove/Î`äã%“Äsv/Î`äã/“Äsv=/Î`äã3
+“Äsudo /Î`è„…“Ä\_/Î`è„‡“Ä_/Î`è„“Ä\-/Î`è„ş“Äadjust/Î`íúÖ	“Änmap/Î`ñÌ“Ämywibox/Î`ñá“Äwidgets/Î`ñ/“Äolume_w/Î`ñ©“Ä+ e/Î`ñ›	“Äroot/Î`ñ›>
+“Äalais/Î`ñ›?
+“Äalias/Î`ñb
+“Äulant/Î`ñd
+“Ärunas/Î`ñ©P“Äwidget/Î`ñ²İ
+“Äprose/Î`ñ³a“Ä-12-01 Î`ñ³a
+“Ä-M-13 Î`ñ³a
+“Ä-M-19 Î`ñ³a
+“Ä-2-23 Î`ñ³a“Ä-06-01 Î`ñ³a
+“Ä-9-22 Î`ñ³a“Ä-12-19 Î`ñ³a“Ä-AG-30 Î`ñ³a
+“Ä-2-20 Î`ñ³a“Ä-03-20 Î`ñ³a
+“Ä-6-10 Î`ñ³a“Ä-14-01 Î`ñ³a“Ä-10-08 Î`ñ³a
+“Ä-3-24 Î`ñ³a
+“Ä-4-12 Î`ñ³a
+“Ä-8-30 Î`ñ³a“Ä-11-03 Î`ñ³b
+“Ä-M-15 Î`ñ³b“Ä-02-04 Î`ñ³b“Ä-06-04 Î`ñ³b“Ä-ELL-16 Î`ñ³b
+“Ä-8-02 Î`ñ³b
+“Ä-9-17 Î`ñ³b
+“Ä-8-18 Î`ñ³b
+“Ä-3-18 Î`ñ³b
+“Ä-8-27 Î`ñ³b
+“Ä-8-28 Î`ñ³b
+“Ä-9-04 Î`ñ³b“Ä-13-08 Î`ñ³b“Ä-06-23 Î`ñ³b
+“Ä-3-01 Î`ñ³b
+“Ä-9-01 Î`ñ³b
+“Ä-8-23 Î`ñ³b
+“Ä-4-11 Î`ñ³b“Ä-06-15 Î`ñ³b
+“Ä-8-17 Î`ñ³b“Ä-10-14 Î`ñ³b“Ä-11-17 Î`ñ³b
+“Ä-9-18 Î`ñ³b
+“Ä-9-24 Î`ñ³b“Ä Riddick 06-03 Î`ñ³b
+“Ä-8-06 Î`ñ³b“Ä-14-11 Î`ñ³b“Ä-13-25 Î`ñ³b
+“Ä-7-11 Î`ñ³b
+“Ä-4-19 Î`ñ³b“Ä-05-18 Î`ñ³b“Ä-06-16 Î`ñ³b
+“Ä-4-29 Î`ñ³b“Ä-12-17 Î`ñ³b“Ä-10-09 Î`ñ³b
+“Ä-9-14 Î`ñ³b“Ä-06-08 Î`ñ³b
+“Ä-5-30 Î`ñ³b“Ä-11-11 Î`ñ³b
+“Ä-4-09 Î`ñ³b
+“Ä-9-09 Î`ñ³b“Ä-06-14 Î`ñ³b
+“Ä-9-16 Î`ñ³b“Ä-ELL-15 Î`ñ³b
+“Ä-9-30 Î`ñ³b
+“Ä-2-22 Î`ñ³b
+“Ä-2-07 Î`ñ³b“Ä-12-29 Î`ñ³b“Ä-10-06 Î`ñ³b
+“Ä-8-21 Î`ñ³b“Ä-06-21 Î`ñ³b“Ä-01-28 Î`ñ³b“Ä-06-19 Î`õêÿ“Äxrandr/Î`õú$	“ÄFILE/Î`õú2“Äthu/Î`úà,	“Ä12.0/Îa n“Ägam/Îa #
+“Äou/Îa #“Äcros_ou/Îa #«“ÄGA/Îa /¦
+“Äumask/Îa {Ó	“Äsxiv/Îa |Ÿ“Ätodrive/Îa1“Ästartx/Îao½“Ärequire/Îao×“Ävolume/Îas~“Äna/Îas€	“Äbomm/ÎaP “Äpcaman/ÎaQ¾“Äapt/ÎaR/“ÄGAM/ÎaWÚ“Äpp/ÎaWä“Ä	Downloads/ÎaY“Ätop/Îag2“Äisntall/Îao“Äau/Îao	“Äagu=/ÎapN“Ä"/Îa	EJ	“Äxrad/Îa	GÇ“Ätilling/Îa	GÉ“Ätil/Îa	H‹	“Äappe/Îa	H”	“Älook/Îa	I¨“Äborder_width/Îa	IŞ“Äsize_hint_honor/Îa	Ià“Ä	size_hint/Îa	J<“Äclient.size/Îa	J­“Ätheme./Îa	J³“Ätheme\./Îa	K“Ä	beautiful/Îa	P“Äapt-file/Îa	Pô“Äuseless/Îa	]‘“Ä^$ Îa	]‘“Ä@$ Îa	^ü“Ä	Now place/Îa	^ÿ“Ä\%/Îa	a“ÄRUNTIME/Îa	a@	“ÄLESS/Îa	›•“ÄASK/Îa	F	“Ägaps/Îa	Ÿ	“Ämini/Îa	¶â“ÄGAMCFG/Îa	·<
+“Änbomm/Îa	º~“Äpamixer Îa	»““Ävisudo/Îae«“Ävimwiki/Îam “Äxfreerdp/Îa˜M“Ä
+border_foc/Îa.ğ	“Äxrdp/Îa.ø
+“Äxtigh/Îa9Œ“Äcfp/Îa9§“ÄGNU/Îa?H“Ä	dmenupass/Îa‚Æ“Ä	TERMINALw/Îa‚È	“Äktty/Îa‚Ê
+“Äkitty/Îa‚Ñ“ÄTERMINA/Îa´0“Ämaimpick/Îa¼	“Äctrl/Îa¼“Äcontrol/Îa¼!“ÄControl/Îa¼$	“Äapce/ÎaÖn“ÄZDOTDIR/Îa€Ö	“Äline/Îa€Ù“Änumber/ÎaĞŒ“Äorg/Îaïñ	“ÄPATH/Îa &¾“Ä\<done\> Îa%
+™
+“Änotes/Îa%
+È“Äip/Îa'º“Äcb/Îa'Ãí
+“Ästaff/Îa)“Äpw/Îa)‘“Äopt/Îa)®
+“Ä++opt/Îa)Aé
+“Ä\"m\"/Îa-	g“Äupc/Îa-dÙ
+“ÄHP G8 Îa-då“ÄHP G8  Îa-e“Ä  Îa-eA“Ä HP Îa-eS	“Ä PHS Îa0
+à“Ä+ x/Îa2Vˆ“Änot/Îa2^ı“Ädoes not/Îa2^ÿ“Äot/Îa2b““Äadgray/Îa2b™“Ä	22addgray/Îa2cÂ“Äaddgrayu/Îa8×-“Ä202/Îa8à)“Ägal/Îa8à“ÄContactSelection/Îa;f“ÄNathan/Îa;…
+“Ämouse/Îa;… “Ä\"1/Îa;…Ò“Ä	ta.screen/Îa;…Ô“Ätag\.screen/Îa;…Û“Äscreen\.tag/Îa;…ü“Ämouse bindings/Îa;…ş“ÄMouse bindings/ÎaN<Æ“Ä	workgroup/ÎaW%§
+“Äallow/ÎaW97“Äserver/ÎaıT;“Äawe/ÎaıW“Äkillcli/ÎaıW_“Äcfx/ÎaıW`“Äx11/ÎaıWb“ÄX11/ÎaıWh“ÄWM=/ÎaıY«“Ä	fullscree/ÎaıYå
+“Ädwm.c/ÎaıYî“Ästatic void /ÎaıYò“Äsetfull/ÎaıZ“Äsetfullscre/ÎaıZf	“Äsudo/Îaı[9“Äclass /Îaı[Í“Äint snap/Îaı[Ú“Ä+/Îaı[ç
+“Ästati/Îaı_ä“Ä	toggleful/Îaıe“Ädefine STRE/Îaıe$	“ÄISDE/Îaıe.“Ä
+size_t len/ÎaıeO“Ä
+strparse()/Îaıea“Äswitch (stres/Îaıet“Äxsettit/Îaıe“Ä
+dec = base/Îaıe“Ästrhandle(void)/Îaıe¢“Ä	strescseq/Îaıe«“Ä	case 4: //Îaıe¶“Änarg > /Îaıe½“Ä	j = (narg/ÎaıeË“Ä	xsettitle/ÎaıeÒ“Ästrescseq.buf/ÎaıeŞ“Äp++/Îaıeø“Ästrescseq.argp/Îaıf“Ä	STREscape/Îaırd“ÄXK/Îaırx“ÄXK_Tab/Îaırç“Ä222/Îaıs	“Äbbbb/ÎaısM“Äincrgap/Îaıs«	“Ä2222/Îaıv-
+“Äindex/Îaıv/	“Äwiki/Îaıv–“Ä	too longj/Îb•“Ävoid togglebar/Îb•†“Ävoid m/Îb•ú“Ä^ttile/Îb–B“Ä$ Îb–…“ÄMod1Ma/Îb–ˆ	“ÄMod1/Îb–£“ÄXK_space/Îb—C“Ästatic const int/Îb˜“Äawesome/Îb˜€
+“Ägapip/Îb™¼
+“Äresou/Îbù“	“Äse()/Îbû?“Äcfw/Îbı„
+“Äclass/ÎbI“Ä
+swallowflo/Îbl
+“Äswall/Îb
+5“Äblocks.h/Îb
+¼“Ä	super + e/Îbã›
+“Äpactl/ÎbéN“Ämbsync/Îbéb“Ämbsyncrc/Îbéà	“Ähtml/Îbéâ
+“Äplain/ÎbIm“Äsecret/ÎbL×“Ädepend/Îb6Ó
+“Äscope/Îb7“Äxprofile/Îb8L“ÄLT_INIT/Îb:+
+“Älet s/Îb:9“Älet s:hi/Îb:\“Ä	<leader>h/Îb:j“Älet s:/Îb:x“Äet s:hidden/Îb:Ô“Ä^"/Îb:Û“Äairline/Îb<R
+“Äfrpip/Îb=Ô“Äcsv/Îb?“ÄJoy/Îb?-
+“Äargs[/Îb?}	“Äargs/ÎbÁ‚“Äbegin{fr/ÎbÇ„“Äxelate/ÎbÊL“Älayouts[/Îb
+n¨“Äsrc/Îb
+n¼	“Ä^src/Îb
+oH“ÄLIBS =/Îb
+ot“Ä-lXren/Îb
+oà
+“ÄBROWS/Îb
+q¶“Äst/Îb
+r	“ÄKVIM/Îb
+r “ÄFREETYPEINC/Îb
+rx“ÄlXrender/Îb
+r~“Äfirefox/Îb
+sw“Ägappih/Îb
+s§“Ätitle(Monitor/Îb
+s¬“Äsendmon/Îb
+sï“Ä^ Îb
+t“Äsendmon(sel/Îb
+t+“Ä
+^togglebar/Îb
+u
+“Äsendmon(selmon/Îb
+up“Ä
+include fi/Îb
+uu“Ästatic const Lay/Îb
+u“Ä	setlayout/Îb
+uÓ
+“Äfibon/Îb
+v	“Ähide/Îb
+v“Ävacant/Îb
+v“Äunsigned int/Îb
+v.“Äunsigned int i, /Îb
+vl	“Äsnap/Îb
+v—“Äswallowfloating/Îb
+v¨“Äint/Îb
+w*“Ä[]/Îb
+wä“Äcol_cyan/Îb
+x0“Ä
+inchmaster/Îb
+x2“Ämaster/Îb
+x
+“Ästack/Îb
+xÂ
+“Äff000/Îb
+xÍ“Ä	killclien/Îb
+xï“Äborder/Îb
+y 	“Äbord/Îb
+yM	“Äkill/Îb
+yW“Ä
+killclient/Îb
+yc
+“ÄMond1/Îb
+{»“Ä	dmenufont/Îb
+{Ê“Ädmenucmd/Îb
+}“Äpdf/Îb
+€€“Ä.h/Îb
+€¶	“Äccat/Îb
+€·“Ä	highlight/Îb
+^“Äborderpx/Îb
+µ“Äresizehints/Îb
+À“Ä^+/Îb
+‚z“Äcol/Îb
+‚Œ“Äcol_gray/Îb
+‚Å“Ä	resources/Îb
+‚ë	“Äkeys/Îb
+ƒ “Ä	selborder/Îb
+ƒ¦	“Äfull/Îb
+ƒª“Äfull/-i/Îb
+ƒ¯“Äfullscre/Îb
+†Ä
+“ÄisCol/Îbˆ¨“Äpam/Îb‘“ÄSt/Îb••“Ä
+togglefull/Îb•—“Ä
+fullscreen/Îb–	“ÄXK_f/Îbš%“ÄTab/Îbšj“Ädefaultgaps/Îbš—“Äfocusmon/Îb›9	“ÄXK_0/Îb›“ÄGPG_TTY/ÎbpD“Ä
+Do not all/Îbq­
+“Äiscol/Îbr—
+“ÄJoyPi/ÎbŠb	“ÄXK_k/Îbäù“Ä
+\<STRING\> Îbäü
+“Ä&font/Îbå
+“Äfonts/Îbç“Ä=10/Îbòw
+“Älogin/Îbòº	“ÄXK_v/Îbó“Äconfig.def.h/Îbó1“Äinclude/Îbó“Äfocusmaster/Îbó£“Äreturn EXIT_/Îbó÷“Ä^focusmaster/Îbóş“Ä->/Îbö@“ÄF12/Îbö
+“Äsetbg/Îb¬f“Äwal/Îb­m“Ä^drawbox/Îb­w“Ä^drawbar/Îb­“Ä; Îb­à“Ä
+for (c = m/Îb­ò“Äurg |=/Îb®“Äif(ISVIS/Îb®b“Äif (IS/Îb¯`“Äcp=/Îb¯d“Äll/Îb¯ï	“Ä7018/Îb±	“Äncmp/Îb²é“Ä	toggleflo/Îb³“ÄXK_/Îb³]“Äscratchpadcmd/Îb³§“Ä^static void togglefloat/Îb³â“Ä	togglebar/Îb»‡
+“Ämonos/Îb¾x“Ätransmi/Îb¾
+“Ätrans/Îb¿á“Ä	super + d/ÎbÓï“ÄTERMINAL/ÎbÖ9“Äzshnamed/ÎbÖO“Ä	zsh_named/ÎbÖø“Äzsh/ÎbÙ}
+“ÄPrint/ÎbÛq“Ätogglescratch/ÎbÛy“Ä	toggletag/ÎbÛ·“Ätercmd/ÎbÛ¹“Ätermcmd/ÎbÜ“Ä
+scratchpad/ÎbÜ¥“Äsemicolo/ÎbÜÑ“Ä	semicolon/Îbİ.“ÄEsc/ÎbİV“Ä	monospace/Îbİg“ÄTTF/Îbß9	“Äsize/Îbß<“Ä12/Îbßj
+“Äcolor/Îbß˜“Ä:q/Îbß¸“Ä	tagtonext/Îbß¼
+“Ätagto/Îbßè“Ätagmon/ÎbàC“Ä	shiftview/Îbà¶
+“Äpcman/ÎbáŒ“Ärpc-au/Îbá“Äwhiteli/ÎbáÎ	“Äport/Îbáá
+“Äfalse/Îbä"“Äyt/Îbå“Ä	super + m/ÎbæÅ
+“ÄMusic/Îbæâ“Ämpd/ÎbçV	“Äpaly/Îbçâ“Ä	super + p/Îbè)“Äp,/Îbèã“Äpy/Îbèö	“Ätext/Îbé“Äpreview/Îbé“Ätext\//Îbé·	“Äplay/Îbì““ÄISDELIM/Îbíe	“ÄINBO/Îbíé
+“Äspool/Îbî€
+“ÄINBOX/ÎbïW	“Äopen/Îbï‹	“ÄHOME/Îbï”
+“Ämap H/Îbğœ“Äshortc/Îbğ£
+“Äshort/ÎbõÛ“Äyoutube/Îbõà“Ä
+youtube-dl/Îbã“Äpam_gnu/Îbƒ“Ä:)/Îb5
+“Ämails/ÎbF“Ä
+sb-mailbox/Îba“Ä&/ÎbÄ	“ÄXK_t/ÎbÌ“Äspiral/ÎbÓ“Älayouts/Îbğ	“ÄXK_y/Îb]“Ägap/ÎbĞ	“ÄXK_a/Îbİ“Ätoggle/Îb “Ä
+togglegaps/Îb÷“Äwinner/Îb³
+“Äsuper/ÎbÙ	“ÄXK_m/Îbá“Äsetlay/Îb˜	“ÄXK_u/ÎbŞ“Ä[\/Îb“Älayout/ÎbÌ“Ägs/ÎbÙ	“Äsent/Îb+	“Äcase/Îb$
+“Ämusic/Îb´“Ätmp/Îb´F“ÄZQ/Îbµ¹
+“Ämount/Îb¶x
+“Ägoogl/Îb¹¿“ÄMODKEY/Îb¹÷
+“Ä.surf/Îb»“Äsearchen/Îb»“Äserach/Îb»
+“Äsearc/Îb»“Äconfig\./Îb»¤“Ähomepage/Îb»µ“ÄOnMedia/Îb¼–
+“Äserve/Îb½O“ÄSearch/Îb½r“Ä"i"/ÎbÀ“ÄFirefox/ÎbÁ“Ä"g"/ÎbÁ%“Ä$B/ÎbÁ 	“Ägoyo/ÎbÁ£“Ä120/Îb*Í“Äcss/Îb?T
+“Äairli/Îb?¦“Äcomment/ÎbAÆ“Ämy/ÎbAô“Äclient/ÎbEÙ“Ämp3/ÎbEè“Äpngjjjjjjjjjjjjk/ÎbF4
+“ÄICONS/ÎbF;“Ä	set icons/ÎbFK	“Äsend/ÎbG†“Äinstall/ÎbH“Älocal\/ ÎbH“Äscroll/Îb‘“Ä	super + x/ÎbÎ“Ä_SURF_GO/ÎbÑ“Ä	PROMPT_GO/Îb5“ÄSETPROPT/Îb¯“Äsh/Îbş“Älocal\/share/Îb“Äbookmark/Îb$“Ä	VIDEOPLAY/Îbª“Äadd/Îb¯
+“ÄGDK_m/ÎbI“Äb/Îb£“Ä	GDK_KEY_m/Îb·“Ä}/Îbş“ÄBM_ADD/Îb#“ÄSETPROP/ÎbB“Ä	bookmarks/ÎbË“Äsearchengine/Îbá	“ÄBM_A/Îbî“Ä\.surf ÎbyK	“Ädate/ÎbyM“Ä%I/Îb±	“Äbook/Îb¶
+“ÄGDK_g/Îb¹“Ä	GDK_KEY_g/Îb“ÄNOP/Îb]ó“ÄHOM/Îb^“Ähistory/Îb^P
+“Ädmenu/Îb_3
+“Äequal/Îb_9	“Äplus/Îb_A“Ä_equal/Îb_ò
+“Äminus/Îb`V“Äurl = g_/Îb`v“Äsearch/Îb`x“Äengine/Îb`|“Äduckduck/Îb`†“Äsearchengines/Îb`‹“Äconfig./Îb`î“Äddg/ÎbÂ©	“ÄNoto/ÎbÂÇ“Ä	pixelsize/ÎbÃ\“Ä	GDK_KEY_i/ÎbÃ]“Äinsert/ÎbÇƒ	“Äclip/ÎbÇ–“Ä	GDK_KEY_v/ÎbÇÊ
+“ÄGDK_j/ÎbÇÎ“Ä	GDK_KEY_j/ÎbÌû“Äsetfocus/ÎbÌş
+“Äfocus/ÎbÍ	“Ä
+focusstack/ÎbĞ·“Ämargin/ÎbÑÅ
+“Älabel/ÎbÒS“Ätorrent/ÎbÒ§“Ädl/Îbµ;“Äcommon-sess/ÎbÅ“Ämonitors/Îbë“Ämonitor/Îb÷
+“Äxfrdp/Îb •
+“Äabbre/Îb ™“Äla/Îb'ß“Äpam_gnup/Îb(m	“Äauth/Îb.x
+“ÄHOMEw/Îb/Y“Ä	set ignor/Îb/o“Äweather/Îb/w	“Äjson/Îb0'“ÄHOMEPAGE/Îb0­	“Ätime/Îb1
+“Äadmin/Îb1“ÄSchool/Îb1	“Äblue/Îb1G
+“ÄSchoo/Îb2ñ	“ÄXK_q/Îb2ı“ÄReturn/Îb3I“Äred/Îb3R
+“ÄAdmin/Îb3j“Älink-section-titl/Îb3©
+“Äpayet/Îb4K“Äschool/Îb5“Ä	GDK_KEY_n/Îb5O“ÄGDK_KEY/Îb
+Y	“Äsurf/Îbq“Ä$1/ÎbÓ“Änewtab/ÎbÔ“Ätab/ÎbØ
+“Äswapn/Îb9	“Äcurl/Îb “Äsup/ÎbÊ“Äconfig.h/Îbè“Ärealpath/ÎbF	“Ämaim/Îbôf	“Ämagn/ÎbôÆ“Ägpg-agen/Îbõ#“Ägpg/Îb÷
+“Ägnupg/Îb÷E	“ÄGNUP/Îbùc“ÄXDG/Îbm“ÄHISTFILE/Îbm¡	“ÄXK_j/Îbm¬	“Äzoom/Îbn˜“Ätoo/Îbp÷“Äcrosen/ÎbsA“Ärename/ÎbGY“ÄArchive/ÎbG^“Äarchive/ÎbWB“Ämailbox/ÎbWˆ	“ÄArcc/ÎbWÑ
+“ÄTrash/ÎbYŠ“Ä\".*\" ÎbZu“Ä\"\S\+ Îb_“Ä
+"=(\S\+)\" Îb_
+“Ä\"=(\S\+)\" Îb_“Ä\"\=(\S\+)\" Îb_U
+“Ä=\w\+/Îb_h“Ä
+"=(\w\+)\" Îb_{“Ä"=\(\w\+\)\" Îb§[“ÄTERMIN/Îb§b“ÄTermin/Îb§{	“Ämono/Îb§¥“Ä14/Îb§¸“ÄIn/Îb§¼“Ä16/Îbª=
+“Ämonon/Îb•g“Äfloating/Îb–!“Äneomutt/Îb–0“Ä	<leader>o/Îb–ğ“Ä\"=(\w\+)\" Îb–ø“Ä\"=\(\w\+\)\" Îb—
+“ÄDrafts/Îbš
+“Äcache/Îbš“Ä\.cache/Îbšè
+“Äabook/Îbšı“Ämacro index,pager a/Îb¡J
+“Ädoubl/Îb£›	“Äbing/Îb£©
+“Äminif/Îb£ç	“Äortl/Îb¥…
+“Äor is/Îb¥‰“Äor stil/Îb¥•“ÄDay/ÎbûÄ“Äurl/ÎbûÇ“Äurlview/Îbü“Äimg.desk/Îbü“Äimg/Îbü“Ädesktop/Îbş	“Äsetlocal/Îbÿµ“Ärefresh/Îbÿ¶“Äupdate/ÎbÿÔ“Ädef_key "u"/Îb  ?	“Ämeta/Îb  @	“Äedit/Îb  ê
+“Äalbum/Îb çd“Äsource/Îb çr“Ämacro g/Îb éë	“Äadd_/Îb ìÀ“Äplaylist/Îb í,“Ädelete_/Îb î“Ätag/Îb î"
+“Äspace/Îb î3“Änew/Îb!YÎ“Ähidden/Îb!Z
+“Äpager/Îb!Z“Äeditor/Îb!Z“ÄEDITOR/Îb!Z$
+“Ämap e/Îb!Z'“Ämap/Îb!ZL	“Ämap /Îb!ZO
+“ÄPAGER/Îb![Ï
+“Äemoji/Îb!dT	“Ä2022/Îb!hS“Äfilter/Îb!hm	“Äcros/Îb"#Ü“Äawk/Îb"9I“Ämarco index/Îb"9M“Ägi/Îb"Ah“ÄWM/Îb"An“Ädwm/Îb"Aq“Ärio/Îb"Aï“Äespanso/Îb"DP	“Äfont/Îb"Di
+“ÄEmoji/Îb"K“Ämagnet/Îb"K“Ämagnent/Îb"T
+“Äxinit/Îb"T7	“Äxini/Îb"TË	“Äbash/Îb"TÌ
+“Äshell/Îb"TĞ	“Äuser/Îb"Uİ“ÄXINITRC/Îb"X“Ämessage/Îb"X~“Äfailon/Îb"X‡“Ä\%$ Îb"]o“Äspotdl/Îb&*ç	“ÄSent/Îb&+„“Ägit/Îb&.ª“Ä\n\+\%$ Îae¹’ÄnÎaªP’ÄyÎaªR’Äautosign

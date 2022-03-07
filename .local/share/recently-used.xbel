@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/nabommersbach@psd371.org/dl/bookmarks_2_4_22.html" added="2022-02-04T18:33:48.389867Z" modified="2022-02-04T18:34:06.758512Z" visited="2022-02-04T18:33:48.389869Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2022-02-04T18:33:48.389874Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2022-02-04T18:34:06.758506Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nabommersbach@psd371.org/bookmarks_2_24_22.html" added="2022-02-25T01:28:50.439576Z" modified="2022-02-25T01:28:50.439592Z" visited="2022-02-25T01:28:50.439578Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2022-02-25T01:28:50.439583Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nabommersbach@psd371.org/dl/44bedcc5-f0f4-4b00-a0db-7fa07c5f7be7.csv" added="2022-02-25T19:26:30.483507Z" modified="2022-02-25T19:26:30.483514Z" visited="2022-02-25T19:26:30.483508Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2022-02-25T19:26:30.483511Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nabommersbach@psd371.org/docs/dashboard-advanced_search" added="2022-03-01T23:44:31.795125Z" modified="2022-03-01T23:44:31.795141Z" visited="2022-03-01T23:44:31.795127Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2022-03-01T23:44:31.795133Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nabommersbach@psd371.org/docs/2022-03-02-fccl_meeting.pdf" added="2022-03-02T16:43:31.569923Z" modified="2022-03-02T16:48:36.077400Z" visited="2022-03-02T16:43:31.569925Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2022-03-02T16:48:36.077391Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nabommersbach@psd371.org/ch08.pdf" added="2022-03-02T17:13:32.692208Z" modified="2022-03-02T17:13:32.692222Z" visited="2022-03-02T17:13:32.692210Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2022-03-02T17:13:32.692215Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

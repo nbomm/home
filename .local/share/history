@@ -1,0 +1,41 @@
+echo $PATH
+cfp
+cfp
+source .zprofile
+crosuser "22natbommersbach"
+crosuser "23oscescobedo"
+crosuser "23oscescobedo"
+crosuser "23oscescobedo"
+awk -v h="$HOME" '{print "Hello from $h}'
+awk -v u=$USER
+awk -v u=$USER '{print "Hello $u}'
+awk -v u=$USER '{print "Hello" $u}'
+awk -v u=$USER '{print "Hello" $u}' 2022-03-03_cros.csv
+awk -v u=$USER '{print "Hello"}' 2022-03-03_cros.csv
+ls
+echo | awk -v r="$HOME" '{print $r}'
+echo | awk -v r="$HOME" '{print r}'
+echo | awk -v r="$HOME" '{print "Hello r"}'
+echo | awk -v r="$HOME" '{print "Hello $r"}'
+crosuser
+crosuser "22natbommersbach"
+var="22natbommersbach" 
+crosuser "22natbommersbach"
+ls
+vim /tmp/cros_filtered.csv
+rm /tmp/*csv
+crosuser "23oscescobedo"
+crosuser "23oscescobedo"
+ls /mtp
+ls /tmp
+ls /tmp/*csv
+file="/tmp/cros.csv"
+[ ! -f "$file" ] && ls
+shellcheck
+agi shellcheck
+shellcheck .local/bin/gamadv-xtd3/cros/crosuser
+man shellcheck
+crosuser
+crosuser "22natbommersbach"
+crosuser "22natbommersbach"
+crosuser "22natbommersbach"

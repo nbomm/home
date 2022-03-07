@@ -1,0 +1,14 @@
+[Default Applications]
+text/html=lynx.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/magnent=torrent.desktop
+x-scheme-handler/https=link-handler.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+x-scheme-handler/mailto=google-chrome.desktop
+application/pdf=zathura.desktop
+
+[Added Associations]
+application/pdf=google-chrome.desktop;
+application/octet-stream=libreoffice-base.desktop;openoffice4-base.desktop;
+text/csv=chrome-ajjmenfgmbpceneffopmikhahnkeebje-Default.desktop;

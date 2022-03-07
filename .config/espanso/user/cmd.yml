@@ -1,0 +1,7 @@
+title: general
+author: Nathan B
+parent: default
+matches:
+  # Dates
+  - trigger: ":profile"
+    replace: "%USERPROFILE%"

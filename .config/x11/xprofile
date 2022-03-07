@@ -1,0 +1,15 @@
+#!/bin/sh
+
+#tint2 &			# Taskbar
+setbg &			# set the background
+unclutter -noevents &		# Remove mouse when idle
+dunst &			# Notification sender
+sxhkd &			# Key-bindings
+#remmina -i &		# For RDP connections
+remaps &		# For proper keys to be pressed
+dwmblocks &		# Status bar
+xdotool key Num_Lock &	# Number lock
+#espanso daemon &	# Text expander
+
+# Automatically lock the scree
+xautolock -time 5 -locker 'i3lock -efc 161616' &

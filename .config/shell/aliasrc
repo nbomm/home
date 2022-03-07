@@ -1,0 +1,78 @@
+#!/bin/sh
+
+# Use neovim for vim if present.
+[ -x "$(command -v nvim)" ] && alias vim="nvim" vimdiff="nvim -d"
+
+# Use $XINITRC variable if file exists.
+[ -f "$XINITRC" ] && alias startx="startx $XINITRC"
+
+# doas not required for some system commands
+for command in mount umount pacman updatedb su nmap ufw ; do
+	alias $command="doas $command"
+done; unset command
+
+# Use aliases with doas.
+alias doas="doas "
+
+# Verbosity and settings that you pretty much just always are going to want.
+alias \
+	cp="cp -iv" \
+	mv="mv -iv" \
+	rm="rm -vI" \
+	R="R -q --vanilla" \
+	bc="bc -ql" \
+	mkd="mkdir -pv" \
+	yt="yt-dlp --add-metadata -i" \
+	yta="yt -x -f bestaudio/best" \
+	mbsync="mbsync -c ${XDG_CONFIG_HOME:-$HOME/.config}/mbsync/config" \
+	abook="abook -C ${XDG_CONFIG_HOME:-$HOME/.config}/abook/abookrc --datafile ${XDG_DATA_HOME:-$HOME/.local/share}/abook/addressbook" \
+	ffmpeg="ffmpeg -hide_banner" \
+	xfrdp="xfreerdp /cert:ignore /f /monitors:0"
+
+# Colorize commands when possible.
+alias \
+	ls="ls -hN --color=auto --group-directories-first" \
+	grep="grep --color=auto" \
+	diff="diff --color=auto" \
+	ccat="highlight --out-format=ansi"
+
+# These common commands are just too long! Abbreviate them.
+alias \
+	la="ls -a" \
+	ll="ls -l" \
+	ka="killall" \
+	g="git clone" \
+	trem="transmission-remote" \
+	YT="youtube-viewer" \
+	SS="doas systemctl" \
+	sdn="doas shutdown -h now" \
+	sv="doas nvim" \
+	vidoas="doas vidoas" \
+	history="fc -l 1 | grep" \
+	i="doas make install" \
+	xtvv="xtightvncviewer" \
+	lh="linkhandler" \
+	pe="pass edit" \
+	e="$EDITOR" \
+	v="$EDITOR" \
+	x="sxiv -rf *" \
+	z="zathura" \
+	py="python3"
+
+# APT/Aptitude commands
+alias \
+	agi="doas aptitude install" \
+	agr="doas aptitude remove" \
+	acs="aptitude search" \
+	upc="doas aptitude update" \
+	agu="doas sh -c 'aptitude update; aptitude upgrade; apt autoremove'" \
+	afs="apt-file search" \
+
+alias \
+	magit="nvim -c MagitOnly" \
+	ref="shortcuts >/dev/null; source ${XDG_CONFIG_HOME:-$HOME/.config}/shell/shortcutrc ; source ${XDG_CONFIG_HOME:-$HOME/.config}/shell/zshnameddirrc" \
+	weath="less -S ${XDG_DATA_HOME:-$HOME/.local/share}/weatherreport" \
+
+se(){ du -a ~/.local/bin/ | cut -f2- | fzf | xargs -r -I % $EDITOR % ;}
+o(){ setsid xdg-open "$@" 2>/dev/null ;}
+#lpac() { dpkg -l | awk '{print $2}' | fzf --preview='apt info {}' ;}

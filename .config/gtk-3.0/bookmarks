@@ -1,0 +1,4 @@
+file:/// /
+smb://10.4.1.10/ servernts3
+smb://10.0.1.10/administrators/ administrators
+smb://10.4.1.10/pdo/ PDO

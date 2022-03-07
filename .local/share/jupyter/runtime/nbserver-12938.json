@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/home/nabommersbach@psd371.org",
+  "password": false,
+  "pid": 12938,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "8ea947dab6b87600e6ab15a3a540638d4e5c1926efc5039c",
+  "url": "http://localhost:8888/"
+}

@@ -1,0 +1,19 @@
+09:44:20 [daemon(2139601)] [INFO] reading configs from: "/home/nabommersbach@psd371.org/.config/espanso"
+09:44:20 [daemon(2139601)] [INFO] reading packages from: "/home/nabommersbach@psd371.org/.local/share/espanso/packages"
+09:44:20 [daemon(2139601)] [INFO] using runtime dir: "/home/nabommersbach@psd371.org/.local/share/espanso"
+09:44:20 [daemon(2139601)] [INFO] espanso version: 2.1.3-alpha
+09:44:20 [daemon(2139601)] [INFO] spawning the worker process...
+09:44:20 [daemon(2139601)] [INFO] watching for changes in path: "/home/nabommersbach@psd371.org/.config/espanso"
+09:44:20 [daemon(2139601)] [INFO] binded to IPC unix socket: /home/nabommersbach@psd371.org/.local/share/espanso/espansodaemonv2.sock
+09:44:20 [worker(2139621)] [INFO] reading configs from: "/home/nabommersbach@psd371.org/.config/espanso"
+09:44:20 [worker(2139621)] [INFO] reading packages from: "/home/nabommersbach@psd371.org/.local/share/espanso/packages"
+09:44:20 [worker(2139621)] [INFO] using runtime dir: "/home/nabommersbach@psd371.org/.local/share/espanso"
+09:44:20 [worker(2139621)] [WARN] espanso is reading the configuration using compatibility mode, thus some features might not be available
+09:44:20 [worker(2139621)] [WARN] you can migrate to the new configuration format by running 'espanso migrate' in a terminal
+09:44:20 [worker(2139621)] [INFO] binded to IPC unix socket: /home/nabommersbach@psd371.org/.local/share/espanso/espansoworkerv2.sock
+09:44:20 [worker(2139621)] [INFO] monitoring the status of the daemon process
+09:44:20 [worker(2139621)] [INFO] using X11AppInfoProvider
+09:44:20 [worker(2139621)] [INFO] using X11Source
+09:44:20 [worker(2139621)] [INFO] using X11Injector
+09:44:20 [worker(2139621)] [INFO] using X11Clipboard
+09:44:36 [worker(2139621)] [INFO] toggled enabled state, is_enabled = false

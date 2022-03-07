@@ -1,0 +1,8 @@
+#!/bin/sh
+# Exports all users and checks it againsts an email provided
+[ -z "$1" ] && echo "Please give an email" && exit 1
+output="$2"
+[ -z "$output" ] && output="/tmp/cros_filtered.csv"
+data="/tmp/$(date '+%Y-%m-%d')-cros.csv"
+[ -f "$data" ] && echo "$data exists" || gam print cros fields asset,model,users,times > "$data"
+cut -d "," -f2- "$data" | sed 1d | sort | awk -F"," -v user="$1" 'BEGIN {print "asset,model,date,duration,time,num\n"} $7 ~ user {print $NR "," $1 "," $2 "," $3 "," $4 "," $5 "," $6}' | sed "/^,/d" > "$output"

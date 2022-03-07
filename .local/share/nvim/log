@@ -1,0 +1,1 @@
+ERROR 2021-09-03T12:09:46.183 105773 libuv_process_spawn:79: uv_spawn failed: too many open files

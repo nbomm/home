@@ -1,0 +1,9 @@
+luke smith emoji
+-i 1
+-i1
+:h
+:i
+:i=1
+luke smith emoji
+:i3
+:i1

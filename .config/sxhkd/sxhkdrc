@@ -1,0 +1,46 @@
+#!/bin/sh
+
+super + Return
+	$TERMINAL
+super + i
+	$TERMINAL -e htop
+super {+ ,shift +} w
+	{$BROWSER, open-surf
+super + shift + w
+	surf
+super + e
+	$TERMINAL -e neomutt
+super + r
+	$TERMINAL -e lf
+super + n
+	$TERMINAL -e newsboat
+super + shift + r
+	remmina
+super + x
+	pulsemixer --mute; i3lock -efc 161616
+super + d
+	dmenu_run
+super + {p, shift + p}
+	{mpc toggle; pkill -RTMIN+10 dwmblocks, $TERMINAL -e ncmpcpp}
+super + {equal,plus}
+	pulsemixer --change-volume +{5,15}; pkill -RTMIN+10 dwmblocks
+super + {_,shift +} minus
+	pulsemixer --change-volume -{5,15}; pkill -RTMIN+10 dwmblocks
+super + m
+	pulsemixer --toggle-mute; pkill -RTMIN+10 dwmblocks
+super + shift + m
+	pulsemixer --mute; pkill -RTMIN+10 dwmblocks
+super + grave
+	dmenuunicode
+super + shift + Escape
+	prompt "Kill Xorg?" && pkill Xorg
+shift + Print
+	maim -s | xclip -selection clipboard -t image/png
+super + Print
+	maimpick
+super + F2
+	$TERMINAL -e less ~/.local/share/emoji
+super + F8
+	mailsync; pkill -RTMIN+12 dwmblocks
+super + F10
+	serverselect

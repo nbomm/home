@@ -1,0 +1,12 @@
+[20210729-14:25:30] [CORE ] main: app started pid 12516(0x000030e4)
+[20210729-14:25:30] [INFO ] main: DISPLAY env var set to :10.0
+[20210729-14:25:30] [INFO ] main: using DISPLAY 10
+[20210729-14:25:30] [INFO ] channel_thread_loop: thread start
+[20210729-14:25:30] [INFO ] Socket 12: AF_UNIX connection received
+[20210729-14:25:46] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210729-14:26:04] [INFO ] Socket 12: AF_UNIX connection received
+[20210729-14:26:28] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210730-07:33:48] [INFO ] term_signal_handler: got signal 15
+[20210730-07:33:48] [INFO ] channel_thread_loop: g_term_event set
+[20210730-07:33:48] [INFO ] channel_thread_loop: thread stop
+[20210730-07:33:48] [INFO ] main: app exiting pid 12516(0x000030e4)

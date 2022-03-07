@@ -1,0 +1,11 @@
+title: general
+author: Nathan B
+#parent: default
+filter_exec: "emacs.exe"
+matches:
+  - trigger: ":tl"
+    replace: "#+TITLE: "
+  - trigger: ":au"
+    replace: "#+AUTHOR: Nathan B"
+  - trigger: ":de"
+    replace: "#+DATE: "

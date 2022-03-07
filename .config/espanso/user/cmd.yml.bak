@@ -1,0 +1,12 @@
+title: general
+author: Nathan B
+parent: default
+matches:
+  # Dates
+  - trigger: ":profile"
+    replace: "{{home}}"
+    vars:
+      - name: home
+        type: shell
+        params:
+          cmd: "echo %USERPROFILE%"

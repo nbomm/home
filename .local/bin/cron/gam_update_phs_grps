@@ -1,0 +1,13 @@
+#!/bin/sh
+
+logdir="$XDG_CACHE_HOME/gam"
+# GAM Update PHS Groups
+#current="$(date '+%Y')"
+
+#for year in {1..4} ; do
+#	gam update group "$(expr "$year" + "$current")" add member ou_and_children_ns "/Users/Students/Payette High School/$(expr "$year" + "$current")" >> "$logdir/$(date '+%F')"
+#done
+
+for year in "2022" "2023" "2024" "2025" ; do
+	gam update group "$year" add member ou_and_children_ns "/Users/Students/Payette High School/$year" >> "$logdir/$(date '+%F')"
+done

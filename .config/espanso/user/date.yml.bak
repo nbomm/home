@@ -1,0 +1,33 @@
+title: general
+author: Nathan B
+parent: default
+matches:
+  # Dates
+  - trigger: ":date"
+    replace: "{{mydate}}"
+    vars:
+      - name: mydate
+        type: date
+        params:
+          format: "%D"
+  - trigger: ":fdate"
+    replace: "{{fdate}}"
+    vars:
+      - name: fdate
+        type: date
+        params:
+          format: "%Y%m%d"
+  - trigger: ":now"
+    replace: "{{now}}"
+    vars:
+      - name: now
+        type: date
+        params:
+          format: "%Y-%m-%dT%H:%M:%S%:z"
+  - trigger: ":time"
+    replace: "{{time}}"
+    vars:
+      - name: time
+        type: date
+        params:
+          format: "%R %p"

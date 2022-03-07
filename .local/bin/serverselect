@@ -1,0 +1,18 @@
+#!/bin/sh
+
+SRVR="$(echo \
+"PDO 10.4.0.6
+PPS  10.3.0.6
+WES  10.2.0.6
+MMS  10.5.0.6
+PHS  10.0.0.6
+PHS-FS 10.0.1.10" | dmenu -i -l 5 | sed "s/[a-z]*[A-Z]*\s*//")"
+
+[ -z "$SRVR" ] && exit
+
+USR="$(echo Nathan@psd371.org\\nadministrator@psd371.org | dmenu -p "Username")"
+
+#[ ! -z "$SRVR" ] && xfreerdp /u:"$USR" /p:"$(dmenupass 'GPG Password:' | gpg --quiet -d --batch --pinentry-mode loopback --passphrase-fd 0 $PASSWORD_STORE_DIR/ad/nathan.gpg | sed -n 1p)" /cert:ignore /f /monitors:1 /v:"$SRVR"
+
+xfreerdp /u:"$USR" /p:"$(dmenupass "$USR Password:" )" /cert:ignore /f /monitors:1 /v:"$SRVR" ||
+	notify-send -u critical "Error logging into server"

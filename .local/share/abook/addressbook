@@ -1,0 +1,31 @@
+# abook addressbook file
+
+[format]
+program=abook
+version=0.6.1
+
+
+[0]
+name=Christina Higley
+email=ChrHigley@payetteschools.org
+
+[1]
+name=Lori Collier
+email=LoCollier@payetteschools.org
+
+[2]
+name=Marci Holcomb
+email=MaHolcomb@payetteschools.org
+
+[3]
+name=Jesse Saunders
+email=JeSaunders@payetteschools.org
+
+[4]
+name=Shelby McNeal
+email=ShMcNeal@payetteschools.org
+
+[5]
+name=Danny Squibb
+email=dasquibb@payetteschools.org
+

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Zathura
+Comment=Zathura pdf viewer
+Exec=zathura %f
+Type=Application
+MimeType=application/pdf;

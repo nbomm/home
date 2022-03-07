@@ -1,0 +1,5 @@
+enable_audio_bell no
+
+#foreground #ebdbb2
+#background #282828
+background_opacity 0.95

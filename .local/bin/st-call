@@ -1,0 +1,3 @@
+#!/bin/bash
+
+FONTCONFIG_FILE=~/.config/fontconfig/fonts-st.conf /usr/local/bin/st "$@"
